@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3d8b7671-d9b5-45f1-82e4-8ea29e51fb8e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="3998ea26-bfee-439d-8442-c565003a47a7" />
+  <component name="ProjectId" id="1Y2fxSwjW1O1lcOqcZcuHJZxR8L" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="temp" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DAP_Lab4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/temp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.temp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3d8b7671-d9b5-45f1-82e4-8ea29e51fb8e" name="Default Changelist" comment="" />
+      <created>1582145855839</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582145855839</updated>
+      <workItem from="1582145857018" duration="129000" />
+      <workItem from="1582145989351" duration="11133000" />
+      <workItem from="1582197243478" duration="1577000" />
+      <workItem from="1582209214858" duration="396000" />
+      <workItem from="1582594341492" duration="3686000" />
+      <workItem from="1582735569356" duration="3566000" />
+      <workItem from="1582741674836" duration="1308000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="0" key="FileDocumentManager.FileCacheConflict" timestamp="1582742720883">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="0" y="0" key="FileDocumentManager.FileCacheConflict/0.0.1440.900@0.0.1440.900" timestamp="1582742720883" />
+    <state x="0" y="23" key="FileDocumentManager.FileCacheConflict/0.23.1440.811@0.23.1440.811" timestamp="1582155391994" />
+    <state width="1398" height="246" key="GridCell.Tab.0.bottom" timestamp="1582808590403">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="246" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1582808590403" />
+    <state width="1398" height="195" key="GridCell.Tab.0.bottom/0.23.1440.811@0.23.1440.811" timestamp="1582156449314" />
+    <state width="1398" height="246" key="GridCell.Tab.0.center" timestamp="1582808590402">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="246" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1582808590402" />
+    <state width="1398" height="195" key="GridCell.Tab.0.center/0.23.1440.811@0.23.1440.811" timestamp="1582156449312" />
+    <state width="1398" height="246" key="GridCell.Tab.0.left" timestamp="1582808590401">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="246" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1582808590401" />
+    <state width="1398" height="195" key="GridCell.Tab.0.left/0.23.1440.811@0.23.1440.811" timestamp="1582156449311" />
+    <state width="1398" height="246" key="GridCell.Tab.0.right" timestamp="1582808590402">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="246" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1582808590402" />
+    <state width="1398" height="195" key="GridCell.Tab.0.right/0.23.1440.811@0.23.1440.811" timestamp="1582156449313" />
+    <state x="229" y="49" key="SettingsEditor" timestamp="1582737861458">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="229" y="49" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1582737861458" />
+    <state x="229" y="67" key="SettingsEditor/0.23.1440.811@0.23.1440.811" timestamp="1582164027095" />
+    <state x="399" y="261" key="com.intellij.ide.util.TipDialog" timestamp="1582197248391">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state x="399" y="261" key="com.intellij.ide.util.TipDialog/0.23.1440.811@0.23.1440.811" timestamp="1582197248391" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/DAP_Lab4$temp.coverage" NAME="temp Coverage Results" MODIFIED="1582741796927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

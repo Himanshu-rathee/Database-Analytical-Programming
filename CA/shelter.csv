@@ -1,0 +1,1001 @@
+ID,age_upon_outcome,breed,color,date_of_birth,coat_pattern,name,outcome_type,sex_upon_outcome,sex
+1,2 weeks,domestic shorthair,orange,07/07/2014 00:00,tabby,,Transfer,Intact Male,Male
+2,1 month,domestic shorthair,blue /white,16/06/2014 00:00,tabby,Lucy,Adoption,Intact Female,Female
+3,3 months,domestic shorthair,white/black,26/03/2014 00:00,,*Frida,Adoption,Spayed Female,Female
+4,1 year,domestic mediumhair,black/white,27/03/2013 00:00,,Stella Luna,Return to Owner,Spayed Female,Female
+5,3 weeks,domestic shorthair,black/white,16/12/2013 00:00,,,Transfer,Intact Male,Male
+6,2 months,domestic shorthair,brown,02/06/2014 00:00,tabby,Elsa,Adoption,Spayed Female,Female
+7,8 months,domestic shorthair,brown /white,05/07/2013 00:00,tabby,,Transfer,Unknown,Female
+8,5 months,domestic shorthair,black,22/03/2014 00:00,tabby,Chester,Adoption,Neutered Male,Male
+9,2 months,domestic shorthair,orange,03/08/2014 00:00,tabby,*Oliver,Adoption,Neutered Male,Male
+10,1 year,domestic mediumhair,black/white,04/12/2012 00:00,,*Preston,Transfer,Neutered Male,Male
+11,2 months,siamese,seal,27/04/2014 00:00,point,*Bumble,Transfer,Intact Female,Female
+12,2 weeks,domestic shorthair,black,27/05/2014 00:00,,,Transfer,Unknown,Female
+13,2 months,domestic shorthair,,14/04/2014 00:00,torbie,,Adoption,Spayed Female,Female
+14,3 months,domestic shorthair,black,15/04/2014 00:00,,,Adoption,Spayed Female,Female
+15,3 weeks,domestic shorthair,black,05/08/2014 00:00,,,Transfer,Intact Male,Male
+16,3 years,domestic mediumhair,orange,02/08/2011 00:00,tabby,Pumpkin,Died,Neutered Male,Male
+17,4 years,russian blue,blue,24/06/2010 00:00,,Winnie,Adoption,Spayed Female,Female
+18,2 years,domestic shorthair,cream /white,26/11/2012 00:00,tabby,Snowflake,Transfer,Neutered Male,Male
+19,7 years,russian blue,blue,16/07/2007 00:00,,Smoke,Adoption,Neutered Male,Male
+20,1 month,domestic shorthair,,05/06/2014 00:00,calico,*Dora,Transfer,Intact Female,Female
+21,1 year,domestic mediumhair,brown,24/09/2013 00:00,tabby,,Transfer,Intact Female,Female
+22,2 years,domestic shorthair,,31/05/2012 00:00,calico,,Transfer,Intact Female,Female
+23,2 months,domestic shorthair,chocolate,10/08/2013 00:00,,*Cosmo,Transfer,Neutered Male,Male
+24,4 weeks,domestic shorthair,brown,21/03/2014 00:00,tabby,,Transfer,Intact Male,Male
+25,3 months,domestic shorthair,brown /white,01/08/2014 00:00,tabby,,Transfer,Intact Female,Female
+26,1 year,domestic shorthair,,01/01/2013 00:00,torbie,*Sophie,Adoption,Spayed Female,Female
+27,2 months,domestic mediumhair,brown,04/09/2013 00:00,tabby,,Euthanasia,Intact Female,Female
+28,6 years,domestic shorthair,blue /white,11/01/2008 00:00,tabby,Mischief,Return to Owner,Neutered Male,Male
+29,2 years,domestic shorthair,black/white,22/09/2012 00:00,,,Transfer,Neutered Male,Male
+30,2 weeks,domestic shorthair,black/white,12/04/2014 00:00,,,Euthanasia,Unknown,Female
+31,3 weeks,domestic shorthair,orange,29/08/2014 00:00,tabby,,Transfer,Intact Male,Male
+32,2 months,domestic shorthair,brown,09/09/2014 00:00,tabby,*Rose,Adoption,Spayed Female,Female
+33,3 months,domestic shorthair,brown,19/03/2014 00:00,tabby,,Adoption,Spayed Female,Female
+34,2 years,domestic shorthair,blue,13/09/2012 00:00,tabby,,Transfer,Neutered Male,Male
+35,4 months,domestic shorthair,black,06/06/2013 00:00,,*Monkey,Adoption,Neutered Male,Male
+36,2 months,domestic longhair,brown,01/10/2014 00:00,tabby,Lucy,Adoption,Spayed Female,Female
+37,1 year,domestic shorthair,orange,11/11/2012 00:00,tabby,*Mike,Adoption,Neutered Male,Male
+38,2 years,domestic shorthair,brown,05/02/2012 00:00,tabby,*Magnolia,Adoption,Spayed Female,Female
+39,2 months,domestic shorthair,white/black,06/08/2014 00:00,,*Winston,Adoption,Neutered Male,Male
+40,5 months,domestic mediumhair,black/white,24/07/2013 00:00,,*Kim,Transfer,Neutered Male,Male
+41,3 months,domestic shorthair,orange,23/07/2013 00:00,tabby,*Alley,Adoption,Neutered Male,Male
+42,2 years,domestic shorthair,brown,24/02/2012 00:00,tabby,,Transfer,Unknown,Female
+43,1 month,domestic shorthair,orange,24/10/2013 00:00,tabby,*Martin,Transfer,Intact Male,Male
+44,8 years,domestic shorthair,brown /white,23/12/2005 00:00,tabby,,Euthanasia,Intact Female,Female
+45,3 weeks,domestic shorthair,black/white,18/07/2014 00:00,,,Transfer,Intact Female,Female
+46,10 years,domestic shorthair,black/white,25/08/2004 00:00,,Tiki,Adoption,Neutered Male,Male
+47,2 months,domestic shorthair,orange,04/08/2013 00:00,tabby,*Taylor,Transfer,Intact Female,Female
+48,3 weeks,domestic shorthair,blue /white,08/09/2014 00:00,tabby,,Euthanasia,Intact Male,Male
+49,8 years,domestic shorthair,,12/10/2005 00:00,torbie,*Amber,Adoption,Spayed Female,Female
+50,4 weeks,domestic shorthair,orange /white,19/06/2014 00:00,tabby,,Euthanasia,Intact Female,Female
+51,3 years,domestic shorthair,blue/white,18/04/2011 00:00,,Jenny,Transfer,Spayed Female,Female
+52,3 months,domestic shorthair,blue,01/04/2014 00:00,tabby,,Adoption,Spayed Female,Female
+53,2 months,domestic shorthair,brown,26/04/2014 00:00,tabby,*Libby,Adoption,Spayed Female,Female
+54,2 months,domestic shorthair,orange /white,12/09/2014 00:00,tabby,Rainy,Adoption,Spayed Female,Female
+55,5 months,domestic shorthair,orange /white,03/05/2013 00:00,tabby,,Transfer,Intact Male,Male
+56,3 years,domestic shorthair,orange,17/07/2011 00:00,tabby,,Adoption,Neutered Male,Male
+57,3 years,domestic shorthair,silver,13/10/2011 00:00,tabby,,Transfer,Unknown,Female
+58,15 years,domestic shorthair,blue,06/05/1999 00:00,tabby,,Transfer,Intact Female,Female
+59,1 year,domestic shorthair,brown,18/08/2012 00:00,tabby,*Trinity,Adoption,Spayed Female,Female
+60,3 weeks,domestic shorthair,brown,31/05/2014 00:00,tabby,,Transfer,Intact Female,Female
+61,4 weeks,domestic shorthair,black,23/06/2014 00:00,,,Transfer,Intact Female,Female
+62,2 weeks,siamese,flame,25/07/2014 00:00,point,,Transfer,Intact Female,Female
+63,10 months,domestic shorthair,brown,25/07/2013 00:00,tabby,,Transfer,Intact Female,Female
+64,10 months,domestic longhair,black,18/03/2013 00:00,,,Transfer,Unknown,Female
+65,11 months,domestic shorthair,orange /white,10/06/2013 00:00,tabby,*Orville,Adoption,Neutered Male,Male
+66,1 year,domestic shorthair,black,16/04/2012 00:00,,Salem,Adoption,Neutered Male,Male
+67,1 year,domestic shorthair,brown,26/12/2012 00:00,tabby,*Ursula,Transfer,Unknown,Female
+68,2 months,domestic shorthair,,09/09/2014 00:00,torbie,*Lily,Adoption,Spayed Female,Female
+69,3 years,domestic longhair,orange,16/09/2011 00:00,tabby,Garfield,Transfer,Neutered Male,Male
+70,8 years,domestic shorthair,white/orange,16/11/2005 00:00,tabby,Garfield,Return to Owner,Neutered Male,Male
+71,6 months,domestic shorthair,blue,01/03/2014 00:00,,Mina,Adoption,Spayed Female,Female
+72,1 month,domestic shorthair,black/white,29/06/2014 00:00,,*Michonne,Transfer,Intact Female,Female
+73,5 months,siamese,seal,29/03/2014 00:00,point,,Transfer,Intact Male,Male
+74,2 months,domestic shorthair,,05/04/2014 00:00,torbie,*Juliet,Adoption,Spayed Female,Female
+75,2 weeks,domestic shorthair,blue/white,27/05/2014 00:00,,,Transfer,Unknown,Female
+76,2 months,domestic shorthair,blue /white,17/04/2014 00:00,tabby,*Twix,Adoption,Neutered Male,Male
+77,1 month,domestic shorthair,blue,24/05/2014 00:00,,,Euthanasia,Intact Male,Male
+78,2 weeks,domestic shorthair,black/white,12/04/2014 00:00,,,Transfer,Unknown,Female
+79,2 months,domestic mediumhair,orange,19/02/2014 00:00,tabby,Novio,Adoption,Intact Male,Male
+80,2 months,domestic shorthair,,25/05/2014 00:00,tortie,*Rust,Adoption,Spayed Female,Female
+81,6 months,domestic shorthair,,16/06/2014 00:00,calico,,Transfer,Intact Female,Female
+82,2 months,domestic mediumhair,cream,24/03/2014 00:00,tabby,,Adoption,Spayed Female,Female
+83,2 years,domestic shorthair,,16/11/2012 00:00,calico,Jelly Bean,Transfer,Spayed Female,Female
+84,4 months,domestic shorthair,,19/05/2014 00:00,tortie,Cathy,Return to Owner,Spayed Female,Female
+85,1 month,domestic shorthair,,24/08/2014 00:00,torbie,*Kanga,Transfer,Intact Female,Female
+86,3 months,manx,brown /white,19/06/2013 00:00,tabby,Zane,Adoption,Intact Male,Male
+87,1 year,domestic shorthair,orange,17/07/2012 00:00,tabby,Ron Weasley,Transfer,Neutered Male,Male
+88,1 month,domestic mediumhair,brown,06/04/2014 00:00,tabby,,Transfer,Intact Male,Male
+89,16 years,siamese,lynx,11/01/1998 00:00,point,Laurel,Adoption,Spayed Female,Female
+90,2 months,domestic longhair,blue/white,15/04/2014 00:00,,,Adoption,Neutered Male,Male
+91,4 years,siamese,lynx,17/04/2010 00:00,point,Luna,Return to Owner,Spayed Female,Female
+92,2 months,domestic mediumhair,,30/06/2014 00:00,calico,Marley,Adoption,Spayed Female,Female
+93,3 months,domestic shorthair,black,11/09/2013 00:00,,*Alice,Adoption,Spayed Female,Female
+94,3 years,domestic shorthair,blue,13/09/2011 00:00,tabby,Cuddles,Return to Owner,Neutered Male,Male
+95,6 years,domestic shorthair,cream,26/12/2007 00:00,tabby,*Pooh Bear,Adoption,Neutered Male,Male
+96,3 months,domestic longhair,brown,20/08/2014 00:00,tabby,Tucker,Adoption,Intact Male,Male
+97,3 weeks,domestic shorthair,cream,07/10/2014 00:00,tabby,,Transfer,Unknown,Female
+98,1 month,domestic shorthair,,14/04/2014 00:00,torbie,*Louisa,Died,Intact Female,Female
+99,1 year,domestic mediumhair,orange /white,28/05/2013 00:00,tabby,,Transfer,Neutered Male,Male
+100,2 weeks,domestic shorthair,brown,09/04/2014 00:00,tabby,,Transfer,Intact Female,Female
+101,1 month,domestic longhair,black,15/08/2013 00:00,smoke,*Minerva,Transfer,Intact Female,Female
+102,8 months,domestic shorthair,orange,20/01/2014 00:00,tabby,Tiney,Transfer,Spayed Female,Female
+103,9 months,domestic shorthair,,04/01/2014 00:00,tortie,Buffy,Transfer,Spayed Female,Female
+104,10 months,domestic shorthair,,13/01/2013 00:00,calico,Delores,Adoption,Intact Female,Female
+105,3 months,domestic shorthair,brown,15/06/2014 00:00,tabby,,Transfer,Intact Female,Female
+106,2 months,domestic mediumhair,brown,16/06/2014 00:00,tabby,,Adoption,Intact Female,Female
+107,3 months,domestic shorthair,brown,08/08/2014 00:00,tabby,,Transfer,Spayed Female,Female
+108,4 months,domestic shorthair,white/black,22/08/2013 00:00,,Julia,Adoption,Spayed Female,Female
+109,1 month,domestic shorthair,blue,28/04/2014 00:00,tabby,Scout,Adoption,Intact Male,Male
+110,4 months,domestic mediumhair,,14/07/2013 00:00,calico,,Transfer,Intact Female,Female
+111,3 days,domestic shorthair,brown /white,16/06/2014 00:00,tabby,,Euthanasia,Intact Male,Male
+112,4 months,ragdoll,,14/04/2014 00:00,tortie,,Transfer,Intact Female,Female
+113,1 month,domestic shorthair,blue,17/08/2014 00:00,,,Transfer,Intact Male,Male
+114,3 weeks,domestic shorthair,black,04/04/2014 00:00,,,Euthanasia,Intact Male,Male
+115,6 months,domestic shorthair,,11/02/2014 00:00,tortie,*Truffle,Adoption,Spayed Female,Female
+116,1 month,domestic shorthair,black,28/04/2014 00:00,,,Euthanasia,Intact Male,Male
+117,3 weeks,domestic shorthair,brown,01/09/2014 00:00,tabby,,Transfer,Intact Female,Female
+118,1 year,domestic mediumhair,black,20/07/2012 00:00,,,Transfer,Intact Male,Male
+119,3 months,domestic shorthair,blue,27/08/2014 00:00,tabby,Moby Dixson,Adoption,Neutered Male,Male
+120,3 months,domestic shorthair,brown /white,08/08/2014 00:00,tabby,,Transfer,Intact Female,Female
+121,6 days,domestic shorthair,black/white,14/05/2014 00:00,,,Transfer,Intact Male,Male
+122,1 year,domestic shorthair,black/white,01/10/2012 00:00,,Juliet,Adoption,Spayed Female,Female
+123,2 years,siamese,lynx,16/05/2012 00:00,point,*Elsa,Adoption,Neutered Male,Male
+124,1 year,domestic shorthair,orange/white,05/03/2013 00:00,,,Euthanasia,Intact Male,Male
+125,6 years,domestic mediumhair,cream,12/04/2008 00:00,tabby,Sassy,Return to Owner,Intact Female,Female
+126,2 years,domestic shorthair,,30/03/2012 00:00,calico,Nala,Adoption,Spayed Female,Female
+127,1 year,domestic shorthair,,11/04/2013 00:00,calico,Tabs,Adoption,Spayed Female,Female
+128,1 month,domestic mediumhair,,27/03/2014 00:00,torbie,Kaleysee,Adoption,Spayed Female,Female
+129,3 years,domestic shorthair,brown,14/05/2011 00:00,tabby,Tiger,Adoption,Neutered Male,Male
+130,2 months,domestic shorthair,brown,19/10/2013 00:00,tabby,*Baxter,Adoption,Neutered Male,Male
+131,3 weeks,domestic shorthair,/white,21/04/2014 00:00,torbie,,Transfer,Intact Female,Female
+132,1 year,domestic shorthair,black/white,14/10/2013 00:00,,,Transfer,Intact Male,Male
+133,4 years,domestic longhair,blue/white,25/04/2010 00:00,,,Adoption,Neutered Male,Male
+134,1 year,domestic shorthair,orange /white,15/04/2012 00:00,tabby,Odessa,Adoption,Spayed Female,Female
+135,4 years,domestic shorthair,black,18/07/2010 00:00,,Rogue Momo,Return to Owner,Neutered Male,Male
+136,11 years,domestic mediumhair,orange /white,04/12/2003 00:00,tabby,Billy,Return to Owner,Neutered Male,Male
+137,2 months,domestic shorthair,brown /white,16/04/2014 00:00,tabby,*Suzie,Adoption,Spayed Female,Female
+138,4 months,domestic shorthair,black,16/11/2013 00:00,,Poppy,Adoption,Intact Female,Female
+139,10 years,domestic shorthair,white/black,21/10/2003 00:00,,Dylan,Adoption,Neutered Male,Male
+140,3 months,domestic shorthair,black,11/09/2013 00:00,,*Azure,Transfer,Spayed Female,Female
+141,5 months,domestic shorthair,,23/09/2013 00:00,torbie,,Adoption,Spayed Female,Female
+142,2 months,domestic shorthair,black,12/08/2013 00:00,,*Candy Corn,Adoption,Neutered Male,Male
+143,3 years,domestic longhair,white,04/10/2011 00:00,,Kitty,Adoption,Spayed Female,Female
+144,5 weeks,domestic shorthair,orange /white,05/10/2013 00:00,tabby,*Max,Died,Intact Male,Male
+145,2 months,domestic shorthair,black,15/03/2014 00:00,,*Byron,Adoption,Intact Male,Male
+146,9 months,domestic shorthair,,15/06/2013 00:00,torbie,Sirus,Transfer,Spayed Female,Female
+147,1 week,domestic shorthair,brown,03/04/2014 00:00,tabby,,Transfer,Intact Female,Female
+148,2 months,domestic shorthair,,16/08/2013 00:00,tortie,*Kera,Transfer,Spayed Female,Female
+149,4 weeks,domestic shorthair,black,21/03/2014 00:00,,,Transfer,Intact Male,Male
+150,1 week,domestic shorthair,,23/08/2014 00:00,torbie,,Transfer,Intact Male,Male
+151,1 month,siamese,,26/08/2014 00:00,tortie,*Michonne,Transfer,Intact Female,Female
+152,1 year,siamese,flame,04/12/2012 00:00,point,*Dasher,Transfer,Neutered Male,Male
+153,1 year,domestic mediumhair,black,26/06/2012 00:00,,*Taco,Adoption,Neutered Male,Male
+154,3 months,domestic shorthair,black,21/05/2014 00:00,,,Transfer,Intact Male,Male
+155,3 months,domestic shorthair,white/blue,06/07/2013 00:00,,,Transfer,Neutered Male,Male
+156,8 months,domestic shorthair,white/blue,11/04/2013 00:00,tabby,Hero,Return to Owner,Neutered Male,Male
+157,2 years,domestic shorthair,black/white,07/12/2011 00:00,,*Joe,Adoption,Neutered Male,Male
+158,8 years,domestic shorthair,,06/04/2006 00:00,calico,Buddy Buddy,Transfer,Spayed Female,Female
+159,5 years,siamese,,12/03/2009 00:00,tortie,*Bonnie,Transfer,Spayed Female,Female
+160,2 months,domestic shorthair,white/black,12/07/2014 00:00,,*Sam,Transfer,Neutered Male,Male
+161,1 year,domestic shorthair,cream,08/07/2013 00:00,tabby,*Adam,Transfer,Neutered Male,Male
+162,4 months,domestic shorthair,white/black,03/05/2014 00:00,,*Georgia,Adoption,Spayed Female,Female
+163,2 months,domestic shorthair,black,20/03/2014 00:00,,*Castor,Adoption,Neutered Male,Male
+164,8 months,domestic shorthair,cream,16/04/2013 00:00,tabby,*Stefan,Adoption,Neutered Male,Male
+165,1 year,domestic shorthair,blue,27/02/2013 00:00,,,Transfer,Intact Female,Female
+166,5 weeks,domestic shorthair,brown,13/08/2014 00:00,tabby,*Tina,Euthanasia,Intact Female,Female
+167,2 months,domestic shorthair,cream,29/07/2014 00:00,tabby,Sage,Adoption,Intact Female,Female
+168,2 years,domestic shorthair,brown,24/06/2012 00:00,tabby,,Transfer,Intact Female,Female
+169,1 year,domestic mediumhair,black/white,25/05/2013 00:00,,,Transfer,Unknown,Female
+170,3 weeks,domestic shorthair,,03/05/2014 00:00,torbie,,Transfer,Intact Female,Female
+171,10 years,domestic mediumhair,orange,13/02/2004 00:00,tabby,,Euthanasia,Neutered Male,Male
+172,3 months,domestic shorthair,brown,11/11/2013 00:00,tabby,,Transfer,Intact Male,Male
+173,1 year,domestic shorthair,,28/10/2012 00:00,calico,Gizmo,Adoption,Spayed Female,Female
+174,1 year,domestic shorthair,,14/01/2013 00:00,torbie,*Baby,Adoption,Spayed Female,Female
+175,8 months,domestic shorthair,brown,11/07/2013 00:00,tabby,*Bobby,Adoption,Neutered Male,Male
+176,3 weeks,domestic shorthair,white/blue,23/06/2014 00:00,,,Transfer,Intact Male,Male
+177,2 months,domestic shorthair,brown,25/09/2014 00:00,tabby,*Cinnamon,Adoption,Spayed Female,Female
+178,5 years,domestic shorthair,blue/white,17/03/2009 00:00,,Mittens,Return to Owner,Neutered Male,Male
+179,2 months,domestic mediumhair,black/white,23/05/2014 00:00,,*Lexi,Adoption,Spayed Female,Female
+180,8 months,domestic mediumhair,black/white,15/05/2013 00:00,,*Faith,Adoption,Spayed Female,Female
+181,6 months,domestic longhair,,05/11/2013 00:00,tortie,Sassy,Transfer,Spayed Female,Female
+182,3 weeks,domestic shorthair,black/white,09/09/2014 00:00,,,Transfer,Intact Male,Male
+183,2 months,domestic shorthair,,24/04/2014 00:00,torbie,*Jenna,Adoption,Spayed Female,Female
+184,1 year,domestic shorthair,blue,03/07/2013 00:00,tabby,Trouble,Transfer,Intact Male,Male
+185,3 days,domestic longhair,black,15/06/2014 00:00,,,Transfer,Intact Male,Male
+186,9 months,domestic shorthair,orange,05/07/2013 00:00,tabby,Chuy,Adoption,Neutered Male,Male
+187,1 year,domestic shorthair,orange /white,18/09/2013 00:00,tabby,*Jenny,Euthanasia,Spayed Female,Female
+188,2 years,siamese,seal,13/05/2012 00:00,point,Evans,Return to Owner,Neutered Male,Male
+189,3 months,domestic shorthair,brown,30/04/2014 00:00,tabby,,Transfer,Intact Male,Male
+190,3 months,domestic shorthair,brown,11/04/2014 00:00,tabby,Tifa,Adoption,Neutered Male,Male
+191,2 years,domestic shorthair,orange /white,03/12/2011 00:00,tabby,Ceelo,Return to Owner,Neutered Male,Male
+192,4 months,siamese,flame,23/08/2013 00:00,point,*Gimpy Cb,Euthanasia,Intact Female,Female
+193,2 days,domestic shorthair,,20/06/2014 00:00,calico,,Transfer,Intact Female,Female
+194,2 months,domestic shorthair,brown /white,07/07/2014 00:00,tabby,Luke,Adoption,Neutered Male,Male
+195,3 days,domestic shorthair,blue/white,25/03/2014 00:00,,,Transfer,Intact Male,Male
+196,1 year,domestic shorthair,,27/12/2012 00:00,tortie,,Transfer,Intact Female,Female
+197,1 year,domestic shorthair,brown,12/10/2013 00:00,tabby,,Euthanasia,Intact Male,Male
+198,7 months,domestic mediumhair,,15/02/2014 00:00,torbie,,Transfer,Spayed Female,Female
+199,1 month,domestic shorthair,blue,17/08/2014 00:00,,,Transfer,Intact Male,Male
+200,1 year,domestic shorthair,blue,23/03/2013 00:00,tabby,,Euthanasia,Intact Female,Female
+201,3 weeks,domestic shorthair,blue,08/09/2014 00:00,tabby,,Euthanasia,Intact Male,Male
+202,3 weeks,domestic shorthair,brown,23/06/2014 00:00,tabby,,Transfer,Intact Male,Male
+203,2 years,domestic shorthair,brown,13/05/2012 00:00,tabby,,Transfer,Intact Female,Female
+204,5 years,snowshoe/domestic shorthair,white/seal,19/05/2009 00:00,point,*S'Mores,Transfer,Neutered Male,Male
+205,1 year,domestic shorthair,white,14/03/2013 00:00,,Khloe,Adoption,Spayed Female,Female
+206,3 years,domestic shorthair,black/white,19/05/2011 00:00,,,Died,Intact Male,Male
+207,5 days,domestic shorthair,blue,03/09/2014 00:00,tabby,,Transfer,Unknown,Female
+208,1 month,domestic shorthair,/,21/08/2014 00:00,tortie,,Euthanasia,Intact Female,Female
+209,3 weeks,domestic shorthair,brown,29/04/2014 00:00,tabby,,Transfer,Intact Male,Male
+210,2 months,domestic shorthair,brown /white,13/02/2014 00:00,tabby,*Sugar,Adoption,Spayed Female,Female
+211,4 weeks,domestic shorthair,black/white,29/04/2014 00:00,,,Euthanasia,Unknown,Female
+212,2 months,domestic shorthair,blue,28/04/2014 00:00,tabby,Spruce,Adoption,Neutered Male,Male
+213,2 years,domestic mediumhair,blue,08/12/2011 00:00,tabby,Luckey,Adoption,Intact Male,Male
+214,4 months,domestic shorthair,orange /white,15/04/2014 00:00,tabby,,Transfer,Intact Female,Female
+215,1 year,domestic shorthair,black,28/03/2013 00:00,,Pia,Adoption,Spayed Female,Female
+216,3 months,domestic shorthair,brown,20/08/2013 00:00,tabby,*Sophie,Adoption,Spayed Female,Female
+217,1 year,domestic shorthair,,19/01/2013 00:00,calico,,Transfer,Spayed Female,Female
+218,7 months,domestic shorthair,,13/02/2013 00:00,tortie,,Transfer,Intact Female,Female
+219,4 months,domestic shorthair,black/white,07/06/2014 00:00,,,Transfer,Intact Male,Male
+220,3 weeks,domestic shorthair,,30/08/2014 00:00,tortie,,Transfer,Intact Female,Female
+221,2 years,domestic longhair,orange /white,09/06/2012 00:00,tabby,,Transfer,Intact Female,Female
+222,2 months,domestic shorthair,orange,15/03/2014 00:00,tabby,*Pete,Adoption,Spayed Female,Female
+223,1 year,domestic shorthair,black,21/10/2012 00:00,,*Teddy,Transfer,Neutered Male,Male
+224,1 year,domestic shorthair,brown,18/07/2013 00:00,tabby,,Transfer,Intact Female,Female
+225,1 month,domestic shorthair,brown,11/05/2014 00:00,tabby,,Died,Intact Male,Male
+226,1 week,domestic shorthair,cream,29/07/2014 00:00,tabby,,Transfer,Intact Male,Male
+227,1 year,domestic shorthair,brown /white,23/07/2013 00:00,tabby,,Euthanasia,Intact Male,Male
+228,3 weeks,domestic shorthair,black,29/05/2014 00:00,,,Transfer,Intact Male,Male
+229,2 weeks,domestic shorthair,cream,04/09/2014 00:00,tabby,,Transfer,Intact Female,Female
+230,2 months,russian blue,blue,29/06/2014 00:00,,*Beau,Adoption,Neutered Male,Male
+231,5 months,domestic shorthair,blue /white,26/02/2014 00:00,tabby,,Transfer,Unknown,Female
+232,15 years,domestic shorthair,,18/10/1999 00:00,tortie,Mitzy,Transfer,Spayed Female,Female
+233,3 years,domestic shorthair,brown /white,19/11/2011 00:00,tabby,,Transfer,Intact Male,Male
+234,2 years,domestic mediumhair,black,16/08/2012 00:00,,,Euthanasia,Neutered Male,Male
+235,2 months,domestic shorthair,blue /white,18/04/2014 00:00,tabby,Socks,Adoption,Neutered Male,Male
+236,2 months,siamese,flame,15/04/2014 00:00,point,*Hugh,Adoption,Neutered Male,Male
+237,5 months,domestic shorthair,brown,27/04/2014 00:00,tabby,,Transfer,Intact Female,Female
+238,6 years,domestic shorthair,,27/03/2007 00:00,tortie,Ethel,Transfer,Spayed Female,Female
+239,1 year,domestic mediumhair,brown /white,02/12/2012 00:00,tabby,,Transfer,Intact Female,Female
+240,6 days,domestic shorthair,blue /white,12/03/2014 00:00,tabby,,Transfer,Intact Female,Female
+241,7 months,domestic shorthair,black,10/03/2013 00:00,,*Harry,Adoption,Neutered Male,Male
+242,1 month,domestic shorthair,blue/white,17/05/2014 00:00,,,Died,Intact Female,Female
+243,2 years,domestic shorthair,brown,31/05/2012 00:00,tabby,*Darwen,Transfer,Intact Male,Male
+244,2 months,domestic shorthair,,19/05/2014 00:00,calico,*Lizzy,Adoption,Spayed Female,Female
+245,2 years,domestic shorthair,brown /white,16/11/2011 00:00,tabby,Kit Tay,Transfer,Spayed Female,Female
+246,3 weeks,domestic shorthair,blue,29/04/2014 00:00,tabby,,Transfer,Intact Female,Female
+247,1 year,domestic shorthair,brown,12/06/2013 00:00,tabby,Spaghetti,Transfer,Spayed Female,Female
+248,1 month,domestic mediumhair,brown /white,20/08/2014 00:00,tabby,Abby,Adoption,Spayed Female,Female
+249,3 months,domestic shorthair,orange /white,24/05/2014 00:00,tabby,Brody,Adoption,Neutered Male,Male
+250,3 weeks,domestic shorthair,brown,11/04/2014 00:00,tabby,,Transfer,Intact Female,Female
+251,2 months,domestic shorthair,black/white,20/03/2014 00:00,,,Adoption,Neutered Male,Male
+252,2 months,domestic shorthair,,20/09/2014 00:00,tortie,*Juliet,Adoption,Spayed Female,Female
+253,1 year,domestic shorthair,orange,09/05/2013 00:00,tabby,Joey,Return to Owner,Neutered Male,Male
+254,15 years,domestic shorthair,brown /white,07/11/1999 00:00,tabby,Raja,Euthanasia,Spayed Female,Female
+255,4 months,domestic shorthair,brown,29/01/2014 00:00,tabby,*Chestnut,Adoption,Neutered Male,Male
+256,1 year,domestic shorthair,orange,26/10/2013 00:00,tabby,,Transfer,Intact Male,Male
+257,1 year,snowshoe,seal /white,26/01/2013 00:00,point,Stella,Adoption,Spayed Female,Female
+258,9 years,domestic shorthair,black/white,25/11/2004 00:00,,Duncan,Adoption,Neutered Male,Male
+259,10 months,domestic shorthair,brown,04/06/2013 00:00,tabby,Ginger,Adoption,Spayed Female,Female
+260,3 months,domestic shorthair,black,26/08/2013 00:00,,Collins,Adoption,Neutered Male,Male
+261,1 year,domestic shorthair,brown,09/08/2013 00:00,tabby,,Transfer,Intact Female,Female
+262,2 months,domestic shorthair,brown,05/04/2014 00:00,tabby,*Dolce,Adoption,Spayed Female,Female
+263,4 months,domestic shorthair,brown /white,27/05/2014 00:00,tabby,,Transfer,Intact Male,Male
+264,2 months,domestic shorthair,brown /white,25/03/2014 00:00,tabby,,Transfer,Intact Male,Male
+265,2 years,domestic shorthair,,01/02/2012 00:00,calico,Chloe,Adoption,Spayed Female,Female
+266,2 weeks,domestic mediumhair,,20/04/2014 00:00,torbie,,Transfer,Intact Female,Female
+267,2 months,domestic shorthair,blue,05/08/2014 00:00,tabby,*Baby Blue,Adoption,Neutered Male,Male
+268,3 months,domestic shorthair,black,11/09/2014 00:00,,*Ellie,Adoption,Spayed Female,Female
+269,2 years,domestic shorthair,black,13/05/2012 00:00,,*Bonnie,Transfer,Spayed Female,Female
+270,1 year,domestic shorthair,blue/white,10/08/2013 00:00,,,Transfer,Intact Female,Female
+271,2 months,domestic shorthair,orange /white,04/06/2014 00:00,tabby,,Adoption,Neutered Male,Male
+272,2 months,domestic shorthair,brown,26/08/2014 00:00,tabby,,Transfer,Intact Male,Male
+273,8 months,domestic shorthair,,17/08/2013 00:00,torbie,,Transfer,Intact Female,Female
+274,2 months,domestic shorthair,orange,30/09/2013 00:00,tabby,*Willow,Adoption,Spayed Female,Female
+275,1 year,domestic shorthair,orange /white,15/10/2012 00:00,tabby,Jerry,Euthanasia,Neutered Male,Male
+276,2 months,domestic longhair,blue/white,24/04/2014 00:00,,Solo,Adoption,Neutered Male,Male
+277,4 months,domestic shorthair,white,05/08/2013 00:00,,Powder,Adoption,Neutered Male,Male
+278,14 years,domestic shorthair,orange,18/10/2000 00:00,tabby,Rusty,Transfer,Neutered Male,Male
+279,1 year,domestic shorthair,brown /white,03/07/2013 00:00,tabby,,Transfer,Intact Female,Female
+280,9 years,domestic shorthair,blue/white,10/07/2005 00:00,,Cindy,Transfer,Spayed Female,Female
+281,2 months,domestic shorthair,brown,17/07/2013 00:00,tabby,*Dixon,Adoption,Neutered Male,Male
+282,2 days,domestic shorthair,black,06/09/2014 00:00,,,Transfer,Unknown,Female
+283,2 months,domestic shorthair,black,03/09/2013 00:00,,,Euthanasia,Intact Female,Female
+284,4 weeks,domestic shorthair,blue,16/06/2014 00:00,tabby,,Transfer,Intact Male,Male
+285,3 months,domestic shorthair,,10/10/2013 00:00,torbie,*Treasure,Adoption,Spayed Female,Female
+286,2 years,domestic shorthair,,31/12/2011 00:00,calico,,Transfer,Spayed Female,Female
+287,3 weeks,domestic shorthair,orange/white,08/08/2014 00:00,,,Transfer,Intact Male,Male
+288,6 months,domestic shorthair,brown,01/03/2014 00:00,tabby,,Adoption,Neutered Male,Male
+289,2 months,domestic shorthair,brown /white,01/09/2014 00:00,tabby,*Zander,Transfer,Intact Male,Male
+290,2 years,domestic shorthair,black,08/12/2011 00:00,,*Suzanne,Adoption,Spayed Female,Female
+291,2 months,domestic shorthair,,07/04/2014 00:00,torbie,,Adoption,Spayed Female,Female
+292,1 month,domestic shorthair,brown,06/07/2014 00:00,tabby,*Larkspur,Adoption,Neutered Male,Male
+293,3 years,domestic shorthair,white,26/01/2011 00:00,,,Transfer,Neutered Male,Male
+294,1 month,domestic shorthair,,01/07/2014 00:00,tortie,*Ryan,Transfer,Intact Female,Female
+295,3 weeks,domestic shorthair,brown,28/09/2013 00:00,tabby,,Transfer,Intact Male,Male
+296,1 year,domestic shorthair,black/white,21/05/2013 00:00,,,Transfer,Unknown,Female
+297,3 weeks,domestic shorthair,brown,28/09/2013 00:00,tabby,,Transfer,Intact Female,Female
+298,1 year,domestic shorthair,,20/01/2013 00:00,calico,Daisy,Transfer,Spayed Female,Female
+299,1 year,domestic shorthair,blue /white,06/08/2013 00:00,tabby,,Transfer,Unknown,Female
+300,2 months,domestic shorthair,blue,06/08/2014 00:00,,*Nigel,Adoption,Neutered Male,Male
+301,1 year,domestic shorthair,brown /white,22/04/2013 00:00,tabby,*Biskit,Transfer,Spayed Female,Female
+302,3 months,domestic shorthair,orange /white,29/07/2013 00:00,tabby,*Tom,Adoption,Neutered Male,Male
+303,4 years,domestic shorthair,black/white,07/08/2010 00:00,,Willie,Return to Owner,Neutered Male,Male
+304,3 weeks,domestic mediumhair,blue,08/04/2014 00:00,tabby,,Transfer,Intact Female,Female
+305,5 months,domestic shorthair,flame,07/07/2013 00:00,point,Moe,Adoption,Neutered Male,Male
+306,2 months,domestic shorthair,blue/white,22/04/2014 00:00,,Boomer,Transfer,Intact Male,Male
+307,8 months,domestic shorthair,,18/03/2014 00:00,torbie,,Transfer,Intact Female,Female
+308,13 years,domestic shorthair,orange,26/05/2001 00:00,tabby,Genevieve,Transfer,Intact Female,Female
+309,7 months,siamese,lilac,13/02/2014 00:00,point,,Transfer,Intact Male,Male
+310,2 months,domestic mediumhair,blue/white,07/07/2014 00:00,,*Mundy,Adoption,Neutered Male,Male
+311,5 months,domestic shorthair,black,23/12/2013 00:00,,Baby,Euthanasia,Intact Female,Female
+312,1 week,domestic shorthair,,02/04/2014 00:00,tortie,,Transfer,Intact Female,Female
+313,4 months,domestic shorthair,orange /white,18/04/2014 00:00,tabby,,Transfer,Intact Male,Male
+314,1 week,domestic shorthair,,02/09/2014 00:00,calico,,Transfer,Intact Female,Female
+315,2 months,domestic shorthair,blue,08/03/2014 00:00,,,Died,Intact Female,Female
+316,4 years,manx,cream,12/10/2010 00:00,tabby,Solo,Return to Owner,Neutered Male,Male
+317,4 weeks,siamese,lynx,24/03/2014 00:00,point,*Arwen,Transfer,Intact Female,Female
+318,2 months,domestic shorthair,orange,15/03/2014 00:00,tabby,*Barbara,Adoption,Intact Female,Female
+319,1 month,domestic shorthair,orange,19/05/2014 00:00,tabby,*Bobby,Transfer,Intact Male,Male
+320,2 weeks,domestic shorthair,black,20/06/2014 00:00,,,Transfer,Intact Female,Female
+321,3 months,domestic shorthair,orange,17/04/2014 00:00,tabby,,Transfer,Unknown,Female
+322,2 months,domestic shorthair,brown /white,22/07/2014 00:00,tabby,*Heath,Adoption,Neutered Male,Male
+323,2 months,domestic shorthair,,26/04/2014 00:00,tortie,*Seven,Adoption,Spayed Female,Female
+324,1 month,domestic mediumhair,blue /white,06/06/2014 00:00,tabby,,Transfer,Intact Male,Male
+325,1 year,siamese,seal,27/03/2013 00:00,point,Sy,Adoption,Neutered Male,Male
+326,1 day,domestic shorthair,,05/10/2013 00:00,tortie,,Transfer,Intact Female,Female
+327,8 months,domestic shorthair,blue,04/03/2014 00:00,,,Transfer,Unknown,Female
+328,1 year,domestic shorthair,black,12/10/2013 00:00,smoke,,Transfer,Intact Male,Male
+329,9 years,domestic shorthair,,09/02/2005 00:00,tortie,*Goldie,Transfer,Spayed Female,Female
+330,3 months,domestic shorthair,black,19/05/2014 00:00,,,Euthanasia,Intact Female,Female
+331,2 years,domestic longhair,blue/white,03/12/2011 00:00,,Binx,Transfer,Spayed Female,Female
+332,5 years,domestic shorthair,,13/04/2009 00:00,calico,Kylie,Transfer,Spayed Female,Female
+333,2 years,domestic shorthair,brown /white,19/03/2012 00:00,tabby,Jazzper,Return to Owner,Intact Female,Female
+334,2 weeks,domestic shorthair,orange,29/08/2014 00:00,tabby,,Transfer,Intact Male,Male
+335,1 month,domestic shorthair,black,28/08/2014 00:00,,,Euthanasia,Intact Female,Female
+336,4 years,siamese,seal,09/11/2010 00:00,point,George,Transfer,Neutered Male,Male
+337,2 years,domestic shorthair,blue,28/06/2012 00:00,tabby,,Transfer,Intact Male,Male
+338,2 weeks,domestic shorthair,black,27/02/2014 00:00,,,Transfer,Intact Male,Male
+339,2 weeks,domestic mediumhair,,08/04/2014 00:00,tortie,,Transfer,Intact Female,Female
+340,1 year,domestic shorthair,brown /white,08/07/2013 00:00,tabby,*Lucas,Transfer,Neutered Male,Male
+341,2 months,domestic shorthair,blue,27/08/2014 00:00,tabby,,Adoption,Spayed Female,Female
+342,10 years,domestic shorthair,brown,01/01/2004 00:00,tabby,Felix,Adoption,Neutered Male,Male
+343,2 months,domestic shorthair,brown /white,17/08/2013 00:00,tabby,Petunia,Adoption,Spayed Female,Female
+344,1 week,domestic shorthair,orange,30/08/2014 00:00,tabby,,Transfer,Intact Male,Male
+345,1 month,domestic shorthair,brown /white,05/10/2014 00:00,tabby,*Philippe,Euthanasia,Intact Male,Male
+346,5 months,domestic shorthair,brown,10/04/2014 00:00,tabby,Garbage,Adoption,Neutered Male,Male
+347,1 year,domestic shorthair,,12/09/2013 00:00,calico,Isis,Transfer,Intact Female,Female
+348,3 months,domestic shorthair,black,26/03/2014 00:00,,,Adoption,Neutered Male,Male
+349,4 months,domestic shorthair,brown /white,07/04/2014 00:00,tabby,Mouse,Transfer,Spayed Female,Female
+350,2 months,domestic shorthair,orange,30/10/2013 00:00,tabby,Ginger Peace,Adoption,Spayed Female,Female
+351,5 days,domestic shorthair,white/blue,03/09/2014 00:00,,,Transfer,Unknown,Female
+352,1 month,domestic shorthair,blue,04/05/2014 00:00,,*Walt,Transfer,Intact Male,Male
+353,7 years,domestic longhair,,04/10/2006 00:00,tortie,*Flower,Adoption,Spayed Female,Female
+354,2 years,domestic shorthair,white/brown,19/10/2011 00:00,tabby,Bella,Adoption,Spayed Female,Female
+355,6 years,domestic shorthair,white/brown,13/10/2007 00:00,tabby,Macintosh,Adoption,Neutered Male,Male
+356,2 months,domestic shorthair,white/black,13/09/2013 00:00,,*Darwin,Adoption,Neutered Male,Male
+357,2 months,domestic shorthair,,24/10/2013 00:00,torbie,*Minnie,Adoption,Intact Female,Female
+358,2 months,domestic shorthair,black/white,27/08/2014 00:00,,*Leroy,Adoption,Neutered Male,Male
+359,2 weeks,domestic shorthair,brown,08/07/2014 00:00,tabby,,Transfer,Intact Female,Female
+360,3 months,domestic shorthair,cream,12/04/2014 00:00,tabby,,Adoption,Neutered Male,Male
+361,3 weeks,domestic shorthair,orange /white,30/09/2014 00:00,tabby,,Transfer,Intact Male,Male
+362,1 weeks,domestic shorthair,brown,14/08/2014 00:00,tabby,,Transfer,Intact Female,Female
+363,2 weeks,domestic shorthair,orange,24/08/2014 00:00,tabby,,Transfer,Intact Male,Male
+364,3 weeks,domestic shorthair,brown,14/06/2014 00:00,tabby,,Transfer,Intact Female,Female
+365,1 year,domestic shorthair,black,26/02/2013 00:00,,,Transfer,Unknown,Female
+366,4 years,domestic shorthair,brown,27/06/2010 00:00,tabby,Crybaby,Adoption,Neutered Male,Male
+367,2 months,domestic shorthair,white/orange,22/04/2014 00:00,tabby,Skittles,Adoption,Neutered Male,Male
+368,3 months,domestic shorthair,black/white,29/03/2014 00:00,,,Adoption,Spayed Female,Female
+369,3 weeks,domestic shorthair,cream,21/11/2014 00:00,,,Transfer,Intact Male,Male
+370,1 year,domestic shorthair,brown /white,12/05/2012 00:00,tabby,,Return to Owner,Spayed Female,Female
+371,2 years,domestic shorthair,blue,02/07/2012 00:00,tabby,Tica,Return to Owner,Spayed Female,Female
+372,3 weeks,domestic shorthair,black/white,07/08/2014 00:00,,,Transfer,Intact Male,Male
+373,2 months,domestic shorthair,orange,05/10/2013 00:00,tabby,Prof Butters,Adoption,Intact Female,Female
+374,2 months,domestic shorthair,brown /white,16/08/2013 00:00,tabby,*Trey,Adoption,Neutered Male,Male
+375,1 weeks,domestic shorthair,buff,25/04/2014 00:00,,,Transfer,Intact Male,Male
+376,1 year,domestic shorthair,black/white,23/12/2012 00:00,,,Transfer,Intact Male,Male
+377,3 years,domestic shorthair,blue,01/01/2011 00:00,,,Euthanasia,Intact Male,Male
+378,3 months,domestic shorthair,brown,15/04/2014 00:00,tabby,Scout,Adoption,Spayed Female,Female
+379,4 weeks,domestic shorthair,brown,26/09/2013 00:00,tabby,*June,Transfer,Intact Female,Female
+380,8 months,domestic shorthair,brown,24/05/2013 00:00,tabby,,Transfer,Unknown,Female
+381,3 months,domestic shorthair,white/black,06/07/2013 00:00,,,Transfer,Neutered Male,Male
+382,2 months,domestic shorthair,black/white,24/04/2014 00:00,,,Transfer,Neutered Male,Male
+383,3 years,domestic shorthair,black,04/11/2011 00:00,,Ash,Transfer,Neutered Male,Male
+384,3 months,domestic shorthair,black/white,07/09/2014 00:00,,*Izzy,Died,Intact Female,Female
+385,1 year,domestic shorthair,blue,25/08/2013 00:00,tabby,*Pudding,Adoption,Spayed Female,Female
+386,2 months,domestic longhair,white/black,12/10/2013 00:00,,Stephanie,Adoption,Spayed Female,Female
+387,1 month,domestic shorthair,orange /white,28/05/2014 00:00,tabby,,Transfer,Intact Male,Male
+388,4 months,domestic shorthair,,29/01/2014 00:00,tortie,*Chloe,Adoption,Spayed Female,Female
+389,2 months,domestic shorthair,black,18/07/2013 00:00,,*Indigo,Adoption,Spayed Female,Female
+390,1 month,domestic mediumhair,blue,30/08/2013 00:00,tabby,*Arnold,Transfer,Intact Male,Male
+391,1 month,domestic shorthair,black,17/10/2014 00:00,,*Bastet,Died,Intact Male,Male
+392,6 years,domestic longhair,brown,07/02/2008 00:00,tabby,,Transfer,Intact Male,Male
+393,1 week,domestic shorthair,,30/07/2014 00:00,calico,,Transfer,Intact Female,Female
+394,2 years,domestic shorthair,blue /black,31/05/2012 00:00,tabby,,Euthanasia,Intact Male,Male
+395,2 months,domestic shorthair,white/blue,26/05/2014 00:00,,,Adoption,Spayed Female,Female
+396,2 months,domestic shorthair,black,27/08/2014 00:00,,*Benny,Adoption,Spayed Female,Female
+397,6 years,russian blue,blue,25/01/2008 00:00,,Smokey,Transfer,Spayed Female,Female
+398,4 months,domestic shorthair,blue,22/12/2013 00:00,tabby,Gracie,Adoption,Spayed Female,Female
+399,2 months,domestic shorthair,black,28/03/2014 00:00,,Ethel,Adoption,Spayed Female,Female
+400,4 months,domestic shorthair,brown /white,17/08/2013 00:00,tabby,,Transfer,Unknown,Female
+401,5 months,domestic shorthair,orange /white,07/04/2014 00:00,tabby,*Marco,Adoption,Neutered Male,Male
+402,2 weeks,domestic shorthair,brown,01/03/2014 00:00,tabby,,Transfer,Intact Male,Male
+403,2 years,angora,white,15/05/2012 00:00,,Chrissy,Transfer,Intact Female,Female
+404,1 month,domestic shorthair,brown,21/05/2014 00:00,tabby,Chiquita,Adoption,Spayed Female,Female
+405,1 year,domestic shorthair,black/white,11/07/2012 00:00,,Sofie,Return to Owner,Spayed Female,Female
+406,2 months,domestic shorthair,orange /white,04/06/2014 00:00,tabby,,Adoption,Neutered Male,Male
+407,3 weeks,domestic shorthair,blue/white,18/08/2014 00:00,,,Transfer,Intact Male,Male
+408,8 months,domestic shorthair,black/white,10/11/2013 00:00,,Frida,Adoption,Spayed Female,Female
+409,2 months,domestic mediumhair,black/white,21/04/2014 00:00,,Izzy,Adoption,Intact Female,Female
+410,3 weeks,domestic shorthair,brown /white,18/04/2014 00:00,tabby,,Transfer,Intact Female,Female
+411,4 years,domestic shorthair,/blue cream,18/04/2010 00:00,tortie,Rosie,Adoption,Spayed Female,Female
+412,2 months,domestic shorthair,orange,03/05/2014 00:00,tabby,*Starburst,Transfer,Intact Female,Female
+413,3 days,domestic shorthair,blue cream,22/01/2014 00:00,,,Euthanasia,Intact Male,Male
+414,9 years,domestic shorthair,black,18/01/2004 00:00,,Reece,Transfer,Neutered Male,Male
+415,3 days,domestic shorthair,black,31/03/2014 00:00,tabby,,Transfer,Intact Female,Female
+416,2 months,domestic shorthair,brown,16/07/2013 00:00,tabby,Tornado,Transfer,Neutered Male,Male
+417,1 month,domestic shorthair,blue,12/04/2014 00:00,,,Adoption,Neutered Male,Male
+418,6 years,domestic shorthair,brown /white,14/06/2008 00:00,tabby,*Scarlet,Adoption,Spayed Female,Female
+419,1 year,domestic shorthair,brown,08/07/2013 00:00,tabby,X,Transfer,Neutered Male,Male
+420,1 year,domestic shorthair,brown,25/03/2013 00:00,tabby,Garden,Return to Owner,Spayed Female,Female
+421,4 months,domestic shorthair,black/white,08/05/2014 00:00,,,Transfer,Intact Male,Male
+422,7 years,domestic shorthair,brown,22/10/2006 00:00,tabby,Leia,Transfer,Spayed Female,Female
+423,1 month,domestic shorthair,blue,10/08/2013 00:00,,Stanley,Adoption,Neutered Male,Male
+424,8 months,domestic shorthair,black/white,02/03/2014 00:00,,,Euthanasia,Intact Female,Female
+425,3 months,domestic shorthair,brown,23/05/2014 00:00,tabby,,Transfer,Intact Male,Male
+426,3 days,manx,,02/10/2013 00:00,tortie,,Transfer,Intact Female,Female
+427,9 months,domestic shorthair,orange,05/07/2013 00:00,tabby,Chuy,Transfer,Neutered Male,Male
+428,2 weeks,domestic shorthair,black,02/05/2014 00:00,,,Transfer,Intact Female,Female
+429,2 years,domestic shorthair,orange,09/05/2012 00:00,tabby,,Transfer,Intact Female,Female
+430,5 months,domestic shorthair,blue,13/07/2014 00:00,tabby,,Transfer,Intact Female,Female
+431,2 months,domestic shorthair,orange,30/09/2013 00:00,tabby,*Willow,Adoption,Spayed Female,Female
+432,4 years,domestic shorthair,brown,06/08/2009 00:00,tabby,Gary,Adoption,Neutered Male,Male
+433,4 months,domestic shorthair,brown,22/04/2014 00:00,tabby,Isla,Adoption,Spayed Female,Female
+434,4 weeks,domestic shorthair,brown,28/04/2014 00:00,tabby,,Transfer,Intact Female,Female
+435,13 years,himalayan,lynx,01/07/2001 00:00,point,Sugar,Adoption,Spayed Female,Female
+436,2 months,domestic shorthair,black/white,28/03/2014 00:00,,Mia,Adoption,Spayed Female,Female
+437,1 year,domestic shorthair,cream,18/02/2013 00:00,tabby,,Died,Intact Female,Female
+438,2 months,domestic shorthair,white/blue,08/07/2014 00:00,tabby,,Adoption,Neutered Male,Male
+439,2 weeks,domestic shorthair,,16/04/2014 00:00,tortie,,Transfer,Intact Female,Female
+440,7 months,domestic shorthair,black /white,22/08/2013 00:00,tabby,Siegfried,Adoption,Neutered Male,Male
+441,2 months,siamese,seal,13/07/2014 00:00,point,,Adoption,Neutered Male,Male
+442,2 weeks,domestic shorthair,brown,23/07/2014 00:00,tabby,,Transfer,Intact Female,Female
+443,1 year,domestic shorthair,brown,30/05/2013 00:00,tabby,Lestat,Adoption,Neutered Male,Male
+444,1 year,domestic shorthair,brown /white,02/07/2012 00:00,tabby,*Mason,Transfer,Neutered Male,Male
+445,2 months,domestic shorthair,cream,14/04/2014 00:00,tabby,*Goose,Adoption,Neutered Male,Male
+446,7 months,siamese,lynx,12/09/2013 00:00,point,Snowflake,Return to Owner,Spayed Female,Female
+447,1 weeks,domestic shorthair,orange,13/07/2014 00:00,tabby,,Transfer,Unknown,Female
+448,1 year,domestic mediumhair,black/white,08/09/2012 00:00,,,Transfer,Spayed Female,Female
+449,5 years,domestic shorthair,orange /white,05/10/2008 00:00,tabby,,Transfer,Neutered Male,Male
+450,3 weeks,domestic shorthair,orange,24/09/2014 00:00,tabby,,Transfer,Intact Male,Male
+451,4 months,domestic shorthair,blue,09/03/2014 00:00,,,Transfer,Intact Female,Female
+452,2 weeks,domestic shorthair,white/black,27/07/2014 00:00,,*Birch,Transfer,Unknown,Female
+453,2 months,domestic shorthair,,01/09/2014 00:00,torbie,*Joannie,Transfer,Spayed Female,Female
+454,1 year,domestic shorthair,black/white,06/05/2013 00:00,,,Transfer,Intact Male,Male
+455,1 month,russian blue,blue,05/02/2014 00:00,,Kit Kat,Adoption,Neutered Male,Male
+456,2 months,manx,blue,13/03/2014 00:00,tabby,Kovu,Adoption,Neutered Male,Male
+457,2 years,domestic shorthair,brown,30/12/2011 00:00,tabby,*Kim,Transfer,Intact Female,Female
+458,1 year,domestic mediumhair,orange /white,01/10/2012 00:00,tabby,Chan,Return to Owner,Neutered Male,Male
+459,2 months,domestic shorthair,black,17/05/2014 00:00,,*Boogie,Adoption,Neutered Male,Male
+460,2 months,domestic shorthair,blue,13/09/2013 00:00,tabby,*Mary,Adoption,Spayed Female,Female
+461,1 year,domestic shorthair,blue/white,19/03/2013 00:00,,,Transfer,Intact Male,Male
+462,7 years,domestic shorthair,blue,12/12/2006 00:00,tabby,Sophie,Adoption,Spayed Female,Female
+463,1 month,siamese,flame,02/05/2014 00:00,point,Lark,Transfer,Intact Female,Female
+464,2 months,domestic shorthair,black/white,13/04/2014 00:00,,*Wayne,Transfer,Neutered Male,Male
+465,4 months,domestic shorthair,brown,11/06/2014 00:00,tabby,Tiny,Adoption,Spayed Female,Female
+466,3 years,domestic shorthair,brown,14/04/2011 00:00,tabby,,Transfer,Spayed Female,Female
+467,8 years,domestic mediumhair,blue/white,17/12/2006 00:00,,Anakin,Transfer,Neutered Male,Male
+468,2 months,domestic shorthair,white/blue,18/05/2014 00:00,,*Elsie,Adoption,Spayed Female,Female
+469,5 years,domestic longhair,blue,13/04/2009 00:00,,,Euthanasia,Neutered Male,Male
+470,3 years,domestic shorthair,white,15/11/2010 00:00,,Pepper,Transfer,Neutered Male,Male
+471,8 years,domestic shorthair,,14/06/2006 00:00,tortie,Pearl,Adoption,Spayed Female,Female
+472,3 months,domestic shorthair,black,28/06/2013 00:00,,*Candace,Adoption,Spayed Female,Female
+473,1 year,domestic longhair,brown,08/11/2013 00:00,tabby,Sylvester,Transfer,Neutered Male,Male
+474,2 years,domestic shorthair,,27/02/2012 00:00,calico,,Transfer,Spayed Female,Female
+475,2 years,domestic shorthair,,27/02/2012 00:00,calico,,Transfer,Spayed Female,Female
+476,2 months,domestic longhair,brown,12/04/2014 00:00,tabby,,Adoption,Spayed Female,Female
+477,1 year,domestic shorthair,black,21/02/2013 00:00,,*Curtis,Adoption,Neutered Male,Male
+478,3 years,domestic shorthair,black,07/03/2011 00:00,,*Sebastian,Transfer,Intact Male,Male
+479,3 months,domestic shorthair,brown /white,05/05/2014 00:00,tabby,,Adoption,Neutered Male,Male
+480,11 months,angora,white,08/02/2013 00:00,,,Adoption,Neutered Male,Male
+481,4 weeks,domestic shorthair,brown /white,05/05/2014 00:00,tabby,,Euthanasia,Intact Female,Female
+482,4 months,domestic shorthair,brown,13/08/2014 00:00,tabby,,Euthanasia,Intact Female,Female
+483,7 years,domestic shorthair,blue/white,08/10/2007 00:00,,,Euthanasia,Neutered Male,Male
+484,3 months,domestic shorthair,,01/05/2014 00:00,torbie,*Bess,Adoption,Spayed Female,Female
+485,1 year,domestic shorthair,black,30/05/2013 00:00,smoke,Morrigan,Adoption,Spayed Female,Female
+486,4 years,domestic mediumhair,orange,17/01/2010 00:00,tabby,Kirby,Transfer,Neutered Male,Male
+487,1 year,siamese,flame,08/07/2013 00:00,point,X,Transfer,Spayed Female,Female
+488,7 months,domestic shorthair,black,01/03/2014 00:00,,Spider Man,Adoption,Neutered Male,Male
+489,3 years,snowshoe,seal,18/04/2011 00:00,point,Echo,Transfer,Neutered Male,Male
+490,3 weeks,domestic shorthair,orange,07/09/2014 00:00,tabby,,Transfer,Intact Male,Male
+491,2 years,domestic shorthair,,20/10/2012 00:00,calico,Cassie,Transfer,Spayed Female,Female
+492,3 months,domestic shorthair,brown /white,23/03/2014 00:00,tabby,,Transfer,Intact Male,Male
+493,2 months,himalayan,flame,04/11/2013 00:00,point,*Sophia,Adoption,Spayed Female,Female
+494,3 months,domestic longhair,,26/02/2014 00:00,calico,Arya,Adoption,Spayed Female,Female
+495,1 month,domestic shorthair,white,02/06/2014 00:00,,,Adoption,Neutered Male,Male
+496,10 years,domestic longhair,black,11/05/2004 00:00,,*Meg,Euthanasia,Spayed Female,Female
+497,2 weeks,domestic shorthair,orange,13/09/2014 00:00,tabby,,Transfer,Intact Female,Female
+498,2 months,domestic shorthair,brown /white,23/01/2014 00:00,tabby,,Adoption,Neutered Male,Male
+499,4 weeks,domestic shorthair,brown /white,09/09/2013 00:00,tabby,,Transfer,Intact Female,Female
+500,6 years,siamese,flame,23/08/2008 00:00,point,Phillis,Return to Owner,Spayed Female,Female
+501,3 years,domestic shorthair,black/white,04/12/2010 00:00,,*Wilson,Adoption,Neutered Male,Male
+502,2 years,domestic shorthair,blue /white,09/02/2012 00:00,tabby,*Bubba,Transfer,Neutered Male,Male
+503,2 months,domestic shorthair,brown,18/06/2014 00:00,tabby,*Luke,Adoption,Neutered Male,Male
+504,1 year,domestic shorthair,brown /white,30/05/2013 00:00,tabby,,Transfer,Intact Male,Male
+505,5 months,domestic shorthair,orange,13/07/2013 00:00,tabby,*Piglet,Transfer,Intact Male,Male
+506,3 years,domestic shorthair,orange,09/03/2011 00:00,tabby,Monkey,Adoption,Neutered Male,Male
+507,2 weeks,domestic shorthair,brown,10/10/2014 00:00,tabby,,Transfer,Intact Male,Male
+508,2 months,domestic shorthair,black/white,20/10/2013 00:00,,*Amy,Transfer,Intact Female,Female
+509,2 months,domestic mediumhair,white/brown,23/04/2014 00:00,tabby,*Patches,Adoption,Neutered Male,Male
+510,8 years,siamese,lynx,03/04/2006 00:00,point,Snowball,Euthanasia,Spayed Female,Female
+511,4 months,domestic shorthair,brown /white,16/06/2013 00:00,tabby,*Johnny,Transfer,Neutered Male,Male
+512,3 weeks,domestic shorthair,brown,07/07/2014 00:00,tabby,,Transfer,Intact Female,Female
+513,2 months,domestic shorthair,black,05/05/2014 00:00,,*Midnight,Adoption,Neutered Male,Male
+514,2 months,domestic shorthair,blue,05/05/2014 00:00,,,Adoption,Neutered Male,Male
+515,3 years,domestic mediumhair,brown,09/07/2011 00:00,tabby,,Transfer,Intact Female,Female
+516,5 months,domestic shorthair,orange,28/04/2013 00:00,tabby,*Chartreuse,Adoption,Neutered Male,Male
+517,2 weeks,domestic shorthair,black,30/03/2014 00:00,,,Transfer,Intact Male,Male
+518,14 years,domestic longhair,white,13/06/2000 00:00,,Angel,Euthanasia,Neutered Male,Male
+519,2 months,domestic shorthair,black/white,02/10/2013 00:00,,Jack,Adoption,Neutered Male,Male
+520,2 weeks,domestic shorthair,white/brown,17/03/2014 00:00,,,Transfer,Unknown,Female
+521,2 months,domestic shorthair,,15/07/2014 00:00,torbie,,Adoption,Spayed Female,Female
+522,2 months,russian blue,blue,20/11/2013 00:00,,Storm,Adoption,Intact Male,Male
+523,2 months,domestic mediumhair,black,18/04/2014 00:00,,*Peter,Transfer,Intact Male,Male
+524,3 weeks,domestic shorthair,,19/08/2014 00:00,calico,,Transfer,Intact Female,Female
+525,2 months,domestic shorthair,black,18/08/2013 00:00,smoke,Chloe,Adoption,Spayed Female,Female
+526,2 weeks,domestic shorthair,blue/white,27/05/2014 00:00,,,Transfer,Unknown,Female
+527,2 months,domestic shorthair,,29/03/2014 00:00,calico,Claire,Adoption,Spayed Female,Female
+528,7 years,domestic shorthair,,08/10/2006 00:00,calico,,Euthanasia,Intact Female,Female
+529,10 months,domestic longhair,brown /white,30/12/2013 00:00,tabby,,Transfer,Intact Female,Female
+530,1 year,domestic shorthair,orange,08/07/2013 00:00,tabby,X,Transfer,Neutered Male,Male
+531,4 years,domestic shorthair,cream,13/07/2010 00:00,tabby,,Euthanasia,Intact Male,Male
+532,5 months,domestic shorthair,black,19/03/2014 00:00,,*Jynx,Adoption,Spayed Female,Female
+533,3 years,domestic shorthair,brown /white,21/08/2010 00:00,tabby,George,Transfer,Neutered Male,Male
+534,3 weeks,domestic shorthair,blue,18/04/2014 00:00,,,Transfer,Intact Female,Female
+535,4 weeks,domestic longhair,black,14/05/2014 00:00,,,Transfer,Intact Male,Male
+536,4 days,domestic shorthair,blue,28/06/2014 00:00,tabby,,Transfer,Intact Female,Female
+537,4 days,domestic shorthair,orange,19/04/2014 00:00,tabby,,Transfer,Intact Male,Male
+538,2 months,domestic shorthair,,26/07/2014 00:00,tortie,Rose,Adoption,Spayed Female,Female
+539,3 months,domestic shorthair,brown /white,16/07/2013 00:00,tabby,*Lil Sister,Adoption,Spayed Female,Female
+540,1 week,domestic shorthair,black/white,13/06/2014 00:00,,,Transfer,Unknown,Female
+541,2 months,domestic shorthair,cream /white,27/08/2014 00:00,tabby,,Adoption,Neutered Male,Male
+542,3 months,domestic shorthair,black,16/07/2013 00:00,tabby,,Transfer,Neutered Male,Male
+543,2 months,domestic shorthair,blue,26/08/2013 00:00,,*Harmony,Adoption,Spayed Female,Female
+544,2 months,domestic shorthair,/white,18/09/2014 00:00,torbie,*Sally,Adoption,Intact Female,Female
+545,1 year,domestic shorthair,blue,22/05/2013 00:00,,,Transfer,Unknown,Female
+546,1 year,domestic shorthair,blue/white,17/06/2013 00:00,,,Transfer,Intact Male,Male
+547,3 months,domestic shorthair,,22/04/2014 00:00,calico,Smokey,Return to Owner,Spayed Female,Female
+548,1 year,domestic mediumhair,black/white,20/06/2013 00:00,,Dinah,Return to Owner,Spayed Female,Female
+549,3 years,domestic shorthair,,24/05/2011 00:00,calico,Luna,Transfer,Spayed Female,Female
+550,2 months,domestic shorthair,blue/white,22/06/2014 00:00,,*Pietro,Adoption,Neutered Male,Male
+551,10 years,domestic shorthair,orange,15/12/2003 00:00,tabby,Chester,Return to Owner,Neutered Male,Male
+552,1 month,siamese,seal,12/06/2014 00:00,point,Chloe,Transfer,Intact Female,Female
+553,2 years,domestic shorthair,orange,27/12/2011 00:00,tabby,*Morris,Transfer,Neutered Male,Male
+554,2 years,domestic shorthair,,19/10/2011 00:00,calico,,Transfer,Intact Female,Female
+555,1 year,domestic shorthair,white,30/06/2013 00:00,,Izabella,Adoption,Spayed Female,Female
+556,2 months,domestic shorthair,orange /white,24/05/2014 00:00,tabby,Brody,Adoption,Neutered Male,Male
+557,10 months,domestic shorthair,brown /white,09/03/2013 00:00,tabby,Mint,Adoption,Spayed Female,Female
+558,3 years,domestic shorthair,blue,30/04/2011 00:00,tabby,*Leon,Adoption,Neutered Male,Male
+559,6 days,domestic shorthair,orange,23/04/2014 00:00,tabby,,Transfer,Intact Male,Male
+560,2 months,domestic longhair,black,21/04/2014 00:00,,,Transfer,Intact Female,Female
+561,7 years,domestic longhair,white/black,30/08/2006 00:00,,Luno,Adoption,Neutered Male,Male
+562,9 months,domestic shorthair,white,25/05/2013 00:00,,*White Snake,Adoption,Spayed Female,Female
+563,6 days,siamese,white/lynx,06/07/2014 00:00,point,,Transfer,Intact Female,Female
+564,1 month,domestic shorthair,blue,20/05/2014 00:00,tabby,Carrie,Transfer,Intact Female,Female
+565,2 months,domestic shorthair,brown,19/04/2014 00:00,tabby,*Bill,Adoption,Neutered Male,Male
+566,2 years,domestic shorthair,blue/white,17/06/2012 00:00,,,Transfer,Intact Female,Female
+567,2 months,domestic mediumhair,orange,25/04/2014 00:00,tabby,Charlie,Adoption,Neutered Male,Male
+568,2 months,domestic shorthair,orange /white,26/05/2014 00:00,tabby,Tiger Girl,Adoption,Spayed Female,Female
+569,7 months,siamese,flame,03/03/2014 00:00,point,*Winky,Transfer,Neutered Male,Male
+570,1 year,domestic shorthair,brown /white,25/08/2013 00:00,tabby,*Walter,Transfer,Neutered Male,Male
+571,2 months,domestic shorthair,orange,04/05/2014 00:00,tabby,Agnes,Adoption,Intact Female,Female
+572,12 years,domestic longhair,,12/07/2002 00:00,tortie,,Euthanasia,Intact Female,Female
+573,1 year,domestic shorthair,brown /white,22/10/2013 00:00,tabby,,Adoption,Neutered Male,Male
+574,12 years,domestic shorthair,black,29/09/2002 00:00,,Magnolia,Return to Owner,Spayed Female,Female
+575,1 year,domestic shorthair,orange,14/09/2013 00:00,tabby,,Transfer,Neutered Male,Male
+576,4 days,domestic shorthair,cream,25/07/2014 00:00,tabby,,Transfer,Intact Male,Male
+577,1 month,domestic shorthair,white/orange,07/04/2014 00:00,tabby,,Adoption,Spayed Female,Female
+578,1 year,domestic shorthair,white/black,26/10/2013 00:00,,*Lily,Transfer,Spayed Female,Female
+579,2 years,domestic shorthair,brown /white,07/12/2011 00:00,tabby,,Transfer,Spayed Female,Female
+580,6 months,domestic shorthair,brown /white,17/04/2013 00:00,tabby,*Trapperjohn,Transfer,Neutered Male,Male
+581,1 year,domestic shorthair,orange,18/10/2013 00:00,tabby,*Aggie,Transfer,Spayed Female,Female
+582,1 year,domestic shorthair,black/white,29/10/2013 00:00,,Oliver,Transfer,Intact Male,Male
+583,2 months,domestic shorthair,brown,01/10/2013 00:00,tabby,Wrigley,Adoption,Spayed Female,Female
+584,2 months,domestic shorthair,black,13/02/2014 00:00,,*Chilli,Transfer,Neutered Male,Male
+585,6 months,domestic mediumhair,,17/05/2013 00:00,calico,Cupcake,Adoption,Spayed Female,Female
+586,3 years,domestic shorthair,,12/04/2011 00:00,tortie,Josie,Return to Owner,Spayed Female,Female
+587,2 months,domestic shorthair,black/white,31/08/2014 00:00,,*Yosemite,Adoption,Neutered Male,Male
+588,2 years,siamese,flame,29/03/2012 00:00,point,,Transfer,Neutered Male,Male
+589,6 years,domestic longhair/persian,blue cream,17/06/2007 00:00,,Frassina,Adoption,Spayed Female,Female
+590,4 months,domestic shorthair,white/black,22/08/2013 00:00,,*Chris,Adoption,Neutered Male,Male
+591,9 months,domestic shorthair,,16/04/2013 00:00,torbie,Italia,Return to Owner,Spayed Female,Female
+592,1 weeks,domestic shorthair,brown,13/07/2014 00:00,tabby,,Transfer,Unknown,Female
+593,1 month,domestic shorthair,black/white,13/09/2013 00:00,,,Euthanasia,Intact Male,Male
+594,1 year,domestic shorthair,blue,08/07/2013 00:00,tabby,*Malcolm,Transfer,Neutered Male,Male
+595,1 week,domestic mediumhair,white,27/06/2014 00:00,,,Transfer,Unknown,Female
+596,2 weeks,domestic shorthair,brown,16/07/2014 00:00,tabby,,Transfer,Intact Female,Female
+597,1 year,domestic shorthair,blue,27/07/2012 00:00,tabby,*Sophie,Transfer,Spayed Female,Female
+598,2 years,domestic mediumhair,black/white,21/05/2012 00:00,,,Transfer,Unknown,Female
+599,2 months,domestic shorthair,brown /white,02/07/2014 00:00,tabby,*Fern,Transfer,Intact Female,Female
+600,1 month,manx,brown,03/04/2014 00:00,tabby,*Hawk,Died,Intact Male,Male
+601,6 months,domestic shorthair,,30/05/2013 00:00,tortie,Gracie,Transfer,Spayed Female,Female
+602,1 month,domestic shorthair,black/white,10/07/2014 00:00,,*Hans,Transfer,Intact Male,Male
+603,2 months,domestic shorthair,orange,05/06/2014 00:00,tabby,*Luke,Transfer,Neutered Male,Male
+604,3 weeks,domestic mediumhair,brown,22/09/2013 00:00,tabby,,Transfer,Intact Male,Male
+605,4 years,domestic shorthair,blue,04/03/2010 00:00,,Shadow,Transfer,Neutered Male,Male
+606,2 months,domestic shorthair,white/blue,12/07/2014 00:00,,Patches,Adoption,Neutered Male,Male
+607,6 months,domestic shorthair,orange,18/06/2014 00:00,tabby,,Transfer,Neutered Male,Male
+608,3 days,domestic shorthair,black,24/02/2014 00:00,,,Transfer,Intact Male,Male
+609,5 years,domestic shorthair,brown /white,16/06/2009 00:00,tabby,Angel,Adoption,Neutered Male,Male
+610,1 week,domestic shorthair,brown,19/04/2014 00:00,tabby,,Transfer,Unknown,Female
+611,6 days,domestic shorthair,black/white,13/08/2014 00:00,,,Transfer,Intact Male,Male
+612,3 weeks,domestic shorthair,black/white,21/04/2014 00:00,,,Transfer,Unknown,Female
+613,6 months,domestic mediumhair,orange /white,20/05/2013 00:00,tabby,,Euthanasia,Unknown,Female
+614,4 months,domestic shorthair,cream,01/06/2013 00:00,tabby,*Fanta,Adoption,Spayed Female,Female
+615,2 years,siamese,silver lynx,11/05/2012 00:00,point,,Transfer,Spayed Female,Female
+616,2 months,snowshoe,blue,19/07/2013 00:00,point,Sparkle,Adoption,Spayed Female,Female
+617,3 months,domestic shorthair,brown,01/04/2014 00:00,tabby,,Adoption,Spayed Female,Female
+618,2 years,domestic shorthair,/white,19/11/2012 00:00,torbie,,Transfer,Spayed Female,Female
+619,2 months,domestic shorthair,,29/03/2014 00:00,calico,*Tasha,Transfer,Spayed Female,Female
+620,4 months,domestic shorthair,cream /white,09/04/2014 00:00,tabby,*Rory,Adoption,Neutered Male,Male
+621,2 weeks,domestic shorthair,orange,22/09/2014 00:00,tabby,,Transfer,Intact Male,Male
+622,3 weeks,domestic shorthair,orange,21/04/2014 00:00,tabby,,Transfer,Intact Male,Male
+623,3 months,siamese,,08/08/2013 00:00,calico,Lulu,Adoption,Spayed Female,Female
+624,4 years,domestic shorthair,orange,10/08/2010 00:00,tabby,Garfield,Return to Owner,Neutered Male,Male
+625,3 years,domestic shorthair,brown,19/01/2011 00:00,tabby,Sheldon,Adoption,Neutered Male,Male
+626,3 years,domestic shorthair,orange,03/10/2010 00:00,tabby,*Riley,Adoption,Neutered Male,Male
+627,7 months,domestic shorthair,orange,09/03/2014 00:00,tabby,*Milo,Adoption,Neutered Male,Male
+628,1 year,domestic shorthair,silver,30/05/2013 00:00,tabby,Trouble,Transfer,Neutered Male,Male
+629,8 years,domestic longhair,orange,03/06/2006 00:00,tabby,*Buckee,Transfer,Spayed Female,Female
+630,1 month,japanese bobtail,blue,07/09/2014 00:00,,*Thumper,Transfer,Intact Male,Male
+631,5 months,domestic mediumhair,buff,11/06/2014 00:00,,,Euthanasia,Intact Male,Male
+632,2 years,domestic shorthair,blue,13/12/2012 00:00,,,Transfer,Intact Male,Male
+633,2 years,domestic shorthair,,04/10/2012 00:00,tortie,Lena,Adoption,Spayed Female,Female
+634,1 month,domestic shorthair,gray,19/07/2014 00:00,,,Euthanasia,Intact Male,Male
+635,4 months,domestic shorthair,black/white,16/02/2014 00:00,,,Transfer,Unknown,Female
+636,10 months,domestic shorthair,,26/02/2013 00:00,calico,*Chloe,Transfer,Spayed Female,Female
+637,3 months,domestic shorthair,black,29/04/2014 00:00,smoke,Smoke Dawg,Adoption,Neutered Male,Male
+638,5 months,domestic shorthair,blue,11/10/2013 00:00,tabby,Lil Bit,Adoption,Spayed Female,Female
+639,2 years,domestic longhair,black/white,29/07/2012 00:00,,,Transfer,Unknown,Female
+640,8 months,domestic shorthair,black,15/05/2013 00:00,,,Transfer,Intact Male,Male
+641,8 months,domestic mediumhair,black,05/07/2013 00:00,,,Transfer,Unknown,Female
+642,1 year,domestic longhair,brown /white,28/02/2013 00:00,tabby,,Euthanasia,Unknown,Female
+643,2 years,domestic shorthair,white/brown,04/10/2012 00:00,tabby,,Transfer,Intact Female,Female
+644,3 months,domestic shorthair,black,02/04/2014 00:00,smoke,*Duncan,Adoption,Neutered Male,Male
+645,5 months,domestic shorthair,black,20/09/2013 00:00,,,Transfer,Intact Female,Female
+646,3 years,domestic shorthair,blue,21/09/2011 00:00,,Kitty Garcia,Adoption,Neutered Male,Male
+647,5 years,domestic shorthair,blue/white,21/06/2009 00:00,,*Belle,Adoption,Spayed Female,Female
+648,1 year,domestic shorthair,,04/09/2012 00:00,torbie,*Natalie,Transfer,Spayed Female,Female
+649,9 years,domestic shorthair,orange,07/04/2005 00:00,tabby,,Euthanasia,Neutered Male,Male
+650,1 year,domestic shorthair,brown,13/10/2012 00:00,tabby,Buzz,Adoption,Neutered Male,Male
+651,1 month,siamese,blue,15/05/2014 00:00,point,*Smokie,Transfer,Neutered Male,Male
+652,1 year,domestic shorthair,,13/11/2013 00:00,tortie,,Transfer,Intact Female,Female
+653,3 weeks,domestic shorthair,brown,08/08/2014 00:00,tabby,,Transfer,Intact Male,Male
+654,3 days,domestic shorthair,blue,01/05/2014 00:00,tabby,,Transfer,Intact Male,Male
+655,0 years,domestic shorthair,black,29/04/2014 00:00,,,Transfer,Unknown,Female
+656,2 months,domestic shorthair,brown /white,11/08/2014 00:00,tabby,Happy,Return to Owner,Spayed Female,Female
+657,4 days,domestic shorthair,orange,14/07/2014 00:00,tabby,,Transfer,Unknown,Female
+658,2 years,domestic mediumhair,black,19/11/2011 00:00,smoke,*Dark Knight,Transfer,Neutered Male,Male
+659,2 weeks,domestic mediumhair,cream,20/04/2014 00:00,tabby,,Transfer,Intact Male,Male
+660,10 months,domestic shorthair,black/white,12/07/2013 00:00,,,Transfer,Intact Female,Female
+661,1 year,domestic shorthair,orange,13/03/2013 00:00,tabby,,Transfer,Intact Male,Male
+662,2 months,domestic shorthair,gray /white,29/08/2014 00:00,tabby,,Adoption,Neutered Male,Male
+663,2 months,domestic shorthair,orange /white,22/04/2014 00:00,tabby,Smaug,Adoption,Neutered Male,Male
+664,2 years,snowshoe,,02/02/2012 00:00,calico,,Transfer,Intact Female,Female
+665,2 months,domestic shorthair,white/black,12/07/2014 00:00,,*Sylvia,Transfer,Spayed Female,Female
+666,4 months,domestic shorthair,black/white,04/12/2013 00:00,,*Fritz,Transfer,Intact Female,Female
+667,4 weeks,domestic shorthair,black,22/07/2014 00:00,,,Transfer,Intact Male,Male
+668,1 year,domestic shorthair,blue,17/11/2012 00:00,,Makarov,Adoption,Neutered Male,Male
+669,2 months,domestic shorthair,,25/10/2013 00:00,calico,*Clarice,Adoption,Spayed Female,Female
+670,3 months,domestic shorthair,blue,02/09/2013 00:00,,,Transfer,Intact Female,Female
+671,2 months,domestic shorthair,,16/08/2014 00:00,tortie,,Adoption,Spayed Female,Female
+672,2 weeks,domestic shorthair,blue /white,24/08/2014 00:00,tabby,,Transfer,Intact Male,Male
+673,1 year,domestic shorthair,black,30/12/2012 00:00,,Midnight,Return to Owner,Spayed Female,Female
+674,3 weeks,domestic shorthair,brown,10/07/2014 00:00,tabby,,Transfer,Intact Male,Male
+675,1 week,domestic mediumhair,white,27/06/2014 00:00,,,Transfer,Unknown,Female
+676,3 years,domestic longhair,cream,16/12/2010 00:00,tabby,,Transfer,Intact Male,Male
+677,3 weeks,domestic shorthair,brown,10/02/2014 00:00,tabby,,Transfer,Intact Female,Female
+678,12 years,domestic shorthair,,03/04/2002 00:00,tortie,Maggie,Adoption,Spayed Female,Female
+679,3 weeks,domestic mediumhair,blue,26/03/2014 00:00,tabby,,Transfer,Intact Female,Female
+680,2 years,domestic shorthair,,11/11/2011 00:00,torbie,,Transfer,Intact Female,Female
+681,3 months,siamese,flame,14/05/2014 00:00,point,,Transfer,Intact Male,Male
+682,2 months,domestic shorthair,,23/03/2014 00:00,torbie,Sophie,Adoption,Spayed Female,Female
+683,2 months,domestic shorthair,orange,29/07/2014 00:00,tabby,Ares,Adoption,Neutered Male,Male
+684,3 years,domestic shorthair,brown /white,26/08/2011 00:00,tabby,Gandalf,Euthanasia,Neutered Male,Male
+685,1 year,domestic shorthair,blue /white,18/02/2013 00:00,tabby,Marvin,Return to Owner,Neutered Male,Male
+686,2 months,domestic shorthair,orange,11/08/2013 00:00,tabby,Robin Hood,Adoption,Neutered Male,Male
+687,2 months,domestic shorthair,brown,08/08/2014 00:00,tabby,*Louis,Adoption,Neutered Male,Male
+688,3 months,domestic shorthair,orange /white,02/04/2014 00:00,tabby,*Leo,Adoption,Neutered Male,Male
+689,2 months,domestic shorthair,orange /white,06/09/2014 00:00,tabby,*Cooper,Adoption,Neutered Male,Male
+690,3 days,domestic shorthair,brown /white,02/09/2014 00:00,tabby,,Transfer,Unknown,Female
+691,2 months,domestic shorthair,blue,31/07/2013 00:00,tabby,*Hector,Adoption,Neutered Male,Male
+692,5 months,domestic shorthair,,27/08/2013 00:00,calico,,Transfer,Intact Female,Female
+693,2 years,siamese,flame,31/08/2012 00:00,point,Rico,Adoption,Neutered Male,Male
+694,1 year,domestic shorthair,blue,03/07/2013 00:00,,,Transfer,Intact Female,Female
+695,2 weeks,domestic shorthair,blue /white,24/08/2014 00:00,tabby,,Transfer,Intact Female,Female
+696,2 months,domestic shorthair,orange,15/07/2014 00:00,tabby,*Felicia,Adoption,Spayed Female,Female
+697,1 year,domestic mediumhair,black,01/08/2012 00:00,,Toothless,Adoption,Neutered Male,Male
+698,2 months,domestic mediumhair,brown,04/05/2014 00:00,tabby,*Moose,Adoption,Neutered Male,Male
+699,3 years,domestic longhair,,31/05/2011 00:00,torbie,Olivie,Return to Owner,Spayed Female,Female
+700,1 year,domestic shorthair,black,02/11/2013 00:00,,*Nina,Transfer,Intact Female,Female
+701,2 months,domestic shorthair,orange,14/08/2013 00:00,tabby,*Hobb,Adoption,Neutered Male,Male
+702,1 month,domestic shorthair,black/white,20/08/2014 00:00,,,Died,Intact Male,Male
+703,7 years,domestic shorthair,brown,10/11/2006 00:00,tabby,,Transfer,Neutered Male,Male
+704,2 weeks,domestic shorthair,black,08/07/2014 00:00,,,Transfer,Intact Female,Female
+705,2 years,domestic shorthair,black,04/10/2012 00:00,,*Mindy,Transfer,Intact Female,Female
+706,2 months,domestic shorthair,black/white,20/07/2013 00:00,,,Adoption,Neutered Male,Male
+707,1 month,domestic shorthair,black/white,17/05/2014 00:00,,*Nadia,Adoption,Spayed Female,Female
+708,3 years,angora,blue,21/04/2011 00:00,,*Azure,Transfer,Spayed Female,Female
+709,5 months,domestic shorthair,,21/07/2013 00:00,tortie,*Edith,Adoption,Spayed Female,Female
+710,2 days,domestic shorthair,brown,03/06/2014 00:00,tabby,,Transfer,Unknown,Female
+711,1 month,domestic shorthair,chocolate/black,13/08/2013 00:00,smoke,*Nougat,Adoption,Neutered Male,Male
+712,3 weeks,domestic shorthair,gray/white,01/10/2014 00:00,,,Transfer,Intact Male,Male
+713,3 weeks,domestic shorthair,cream,26/04/2014 00:00,tabby,,Transfer,Intact Female,Female
+714,5 months,domestic mediumhair,brown /white,13/02/2014 00:00,tabby,,Adoption,Spayed Female,Female
+715,1 month,domestic shorthair,brown /white,30/09/2013 00:00,tabby,*Fox,Transfer,Intact Male,Male
+716,3 weeks,domestic shorthair,brown /white,06/10/2014 00:00,tabby,,Transfer,Intact Female,Female
+717,2 months,domestic shorthair,brown,12/06/2014 00:00,tabby,*Wendy,Adoption,Spayed Female,Female
+718,2 years,snowshoe,seal,13/10/2011 00:00,point,*Klaus,Transfer,Neutered Male,Male
+719,3 months,domestic mediumhair,orange,26/08/2013 00:00,tabby,*Kento,Adoption,Neutered Male,Male
+720,1 year,domestic shorthair,brown,05/07/2012 00:00,tabby,Hank,Return to Owner,Neutered Male,Male
+721,1 month,domestic shorthair,black,20/04/2014 00:00,,*Sylvie,Transfer,Intact Female,Female
+722,4 weeks,domestic shorthair,brown,26/09/2013 00:00,tabby,*Juliep,Transfer,Intact Female,Female
+723,2 weeks,domestic shorthair,cream,03/07/2014 00:00,tabby,,Transfer,Intact Male,Male
+724,4 months,domestic shorthair,,28/02/2014 00:00,calico,,Adoption,Spayed Female,Female
+725,1 year,domestic shorthair,brown,26/12/2012 00:00,tabby,*Ulysses,Transfer,Unknown,Female
+726,3 months,domestic shorthair,white/black,03/10/2013 00:00,,,Adoption,Spayed Female,Female
+727,6 months,domestic shorthair,brown,26/05/2014 00:00,tabby,Meridith,Adoption,Spayed Female,Female
+728,1 weeks,domestic shorthair,black/white,21/03/2014 00:00,,,Transfer,Intact Male,Male
+729,2 weeks,domestic mediumhair,blue,01/10/2013 00:00,,,Transfer,Intact Female,Female
+730,1 year,domestic shorthair,black,14/08/2013 00:00,,,Transfer,Unknown,Female
+731,1 year,domestic shorthair,blue,15/04/2013 00:00,tabby,,Transfer,Intact Female,Female
+732,1 year,domestic mediumhair,brown /white,12/07/2013 00:00,tabby,,Transfer,Intact Female,Female
+733,1 year,domestic shorthair,blue,24/12/2012 00:00,tabby,Maynard,Adoption,Neutered Male,Male
+734,1 month,domestic shorthair,cream,31/01/2014 00:00,tabby,Higgs,Adoption,Neutered Male,Male
+735,2 months,domestic shorthair,white/brown,29/05/2014 00:00,tabby,*Emile,Adoption,Spayed Female,Female
+736,3 weeks,domestic shorthair,lynx,18/04/2014 00:00,point,,Transfer,Intact Female,Female
+737,4 days,domestic shorthair,orange,09/05/2014 00:00,tabby,,Transfer,Intact Male,Male
+738,3 years,domestic shorthair,blue/white,06/03/2011 00:00,,Miles,Transfer,Neutered Male,Male
+739,12 years,domestic shorthair,gray /white,01/04/2002 00:00,tabby,Malcolm,Return to Owner,Neutered Male,Male
+740,3 months,domestic mediumhair,black,03/04/2014 00:00,,*Jason,Adoption,Neutered Male,Male
+741,3 weeks,domestic mediumhair,orange,05/09/2014 00:00,tabby,,Transfer,Intact Female,Female
+742,2 months,domestic shorthair,black,26/08/2013 00:00,,Silka,Adoption,Neutered Male,Male
+743,2 months,domestic shorthair,brown,28/08/2013 00:00,tabby,*Nemo,Adoption,Neutered Male,Male
+744,10 years,domestic shorthair,,08/12/2004 00:00,tortie,,Euthanasia,Intact Female,Female
+745,3 years,domestic shorthair,brown,09/07/2011 00:00,tabby,,Transfer,Neutered Male,Male
+746,2 months,domestic mediumhair,cream,28/05/2014 00:00,tabby,*Franklin,Adoption,Neutered Male,Male
+747,4 months,domestic shorthair,,07/06/2013 00:00,torbie,Gracie,Adoption,Intact Female,Female
+748,1 year,domestic shorthair,,01/04/2013 00:00,calico,*Dusty,Adoption,Spayed Female,Female
+749,2 months,domestic mediumhair,orange /white,16/06/2014 00:00,tabby,*Zeus,Adoption,Neutered Male,Male
+750,2 years,domestic shorthair,white/black,21/05/2012 00:00,,,Transfer,Unknown,Female
+751,1 year,domestic shorthair,black,25/03/2013 00:00,,,Transfer,Intact Female,Female
+752,3 months,domestic shorthair,orange /white,31/07/2014 00:00,tabby,,Adoption,Spayed Female,Female
+753,2 years,domestic shorthair,black,03/02/2012 00:00,,,Transfer,Intact Male,Male
+754,2 months,domestic shorthair,black,23/01/2014 00:00,,,Adoption,Neutered Male,Male
+755,1 year,domestic mediumhair,,04/09/2013 00:00,torbie,,Transfer,Intact Female,Female
+756,7 months,domestic shorthair,brown,07/05/2013 00:00,tabby,,Transfer,Intact Female,Female
+757,3 months,domestic shorthair,black,11/04/2014 00:00,,Austin,Adoption,Neutered Male,Male
+758,3 months,domestic shorthair,brown /white,17/10/2013 00:00,tabby,,Transfer,Unknown,Female
+759,3 years,domestic shorthair,yellow,21/06/2011 00:00,,,Euthanasia,Unknown,Female
+760,2 years,domestic shorthair,orange,17/07/2012 00:00,tabby,,Adoption,Spayed Female,Female
+761,1 month,domestic shorthair,white/brown,24/04/2014 00:00,tabby,Emma,Adoption,Intact Female,Female
+762,2 years,domestic shorthair,,19/11/2011 00:00,calico,*Callie,Transfer,Spayed Female,Female
+763,1 year,domestic shorthair,orange /white,24/02/2013 00:00,tabby,*Eliza,Adoption,Spayed Female,Female
+764,2 weeks,domestic shorthair,,02/10/2013 00:00,tortie,,Transfer,Intact Female,Female
+765,1 year,domestic shorthair,brown /white,03/01/2013 00:00,tabby,,Transfer,Intact Male,Male
+766,2 months,domestic shorthair,orange /white,17/03/2014 00:00,tabby,Orange,Adoption,Neutered Male,Male
+767,3 days,domestic shorthair,cream,30/05/2014 00:00,,,Transfer,Unknown,Female
+768,2 months,domestic shorthair,orange,14/04/2014 00:00,tabby,*Rooster,Adoption,Neutered Male,Male
+769,1 weeks,domestic shorthair,black,18/04/2014 00:00,tabby,,Transfer,Intact Male,Male
+770,3 weeks,domestic mediumhair,blue/white,15/08/2014 00:00,,,Transfer,Intact Male,Male
+771,3 years,domestic longhair,blue,14/04/2011 00:00,tabby,*Greta,Transfer,Intact Female,Female
+772,2 months,domestic shorthair,black/white,06/07/2013 00:00,,*Alex,Adoption,Neutered Male,Male
+773,7 years,domestic shorthair,black/white,26/10/2007 00:00,,Peter Cooper,Adoption,Neutered Male,Male
+774,2 years,domestic shorthair,blue,10/09/2012 00:00,,,Transfer,Intact Female,Female
+775,2 months,domestic shorthair,black/white,07/04/2014 00:00,,Rocky,Adoption,Neutered Male,Male
+776,2 years,domestic shorthair,,12/10/2011 00:00,tortie,,Transfer,Intact Female,Female
+777,2 years,siamese,lynx,14/12/2011 00:00,point,,Euthanasia,Intact Male,Male
+778,11 years,domestic shorthair,black/white,06/10/2003 00:00,,Bibie,Transfer,Neutered Male,Male
+779,2 years,domestic shorthair,,16/06/2012 00:00,tortie,,Transfer,Intact Female,Female
+780,4 weeks,siamese,flame,24/04/2014 00:00,point,Cotton,Transfer,Intact Male,Male
+781,1 year,domestic shorthair,white,28/03/2013 00:00,,,Died,Unknown,Female
+782,2 months,domestic shorthair,orange,07/09/2014 00:00,tabby,*Edward,Transfer,Neutered Male,Male
+783,4 weeks,domestic longhair/rex,,04/04/2014 00:00,tortie,*Lily,Transfer,Intact Female,Female
+784,4 months,domestic longhair,blue,04/10/2013 00:00,,*Marcus,Adoption,Neutered Male,Male
+785,3 months,siamese/domestic shorthair,seal,12/05/2014 00:00,point,,Euthanasia,Unknown,Female
+786,2 months,domestic shorthair,brown,20/04/2014 00:00,tabby,*Ivy,Adoption,Spayed Female,Female
+787,2 years,domestic shorthair,black,10/04/2011 00:00,,Otto,Return to Owner,Neutered Male,Male
+788,5 years,domestic shorthair,black,01/09/2009 00:00,,*Maribelle,Adoption,Spayed Female,Female
+789,2 months,domestic shorthair,black/white,21/04/2014 00:00,,*Salsa,Adoption,Spayed Female,Female
+790,3 weeks,domestic shorthair,brown /white,26/03/2014 00:00,tabby,,Transfer,Intact Male,Male
+791,2 months,domestic shorthair,brown,06/04/2014 00:00,tabby,*Belle,Adoption,Spayed Female,Female
+792,3 months,siamese,lynx,28/03/2014 00:00,point,,Adoption,Neutered Male,Male
+793,2 months,domestic shorthair,brown,25/09/2014 00:00,tabby,*Queso,Adoption,Neutered Male,Male
+794,2 months,domestic shorthair,orange,29/07/2014 00:00,tabby,Peppermint,Adoption,Neutered Male,Male
+795,3 years,siamese,lilac,23/10/2010 00:00,point,,Transfer,Spayed Female,Female
+796,8 years,domestic shorthair,brown /white,17/09/2005 00:00,tabby,Leo,Adoption,Neutered Male,Male
+797,3 years,domestic mediumhair,brown /white,09/07/2011 00:00,tabby,,Transfer,Intact Male,Male
+798,2 months,domestic shorthair,cream,31/07/2013 00:00,tabby,*Roy,Adoption,Neutered Male,Male
+799,2 months,domestic shorthair,orange /white,15/09/2014 00:00,tabby,*Pumpkin,Transfer,Intact Male,Male
+800,4 months,domestic shorthair,/white,19/04/2014 00:00,torbie,*Candy,Adoption,Spayed Female,Female
+801,2 months,domestic longhair,black/white,13/08/2014 00:00,,*Jenny,Adoption,Spayed Female,Female
+802,6 months,domestic mediumhair,silver,11/03/2014 00:00,tabby,,Transfer,Intact Female,Female
+803,2 months,domestic shorthair,orange,18/07/2013 00:00,tabby,*Adam,Adoption,Neutered Male,Male
+804,3 years,domestic shorthair,blue/white,28/03/2011 00:00,,*Chris,Adoption,Neutered Male,Male
+805,2 years,domestic shorthair,brown /white,23/01/2012 00:00,tabby,,Transfer,Intact Female,Female
+806,3 years,domestic shorthair,cream,21/12/2010 00:00,tabby,Puma,Return to Owner,Neutered Male,Male
+807,2 months,domestic shorthair,cream,16/04/2014 00:00,tabby,*Fraggle,Adoption,Neutered Male,Male
+808,3 days,domestic shorthair,black,24/04/2014 00:00,,,Transfer,Unknown,Female
+809,2 months,domestic shorthair,cream,09/04/2014 00:00,tabby,Golden Boy,Adoption,Neutered Male,Male
+810,2 years,domestic longhair,blue,14/01/2012 00:00,tabby,,Transfer,Intact Male,Male
+811,8 years,domestic shorthair,black,08/10/2006 00:00,,Chato,Adoption,Neutered Male,Male
+812,2 years,domestic shorthair,brown /white,20/11/2011 00:00,tabby,,Transfer,Intact Male,Male
+813,7 months,domestic shorthair,orange,06/04/2014 00:00,tabby,*Five,Adoption,Neutered Male,Male
+814,5 months,domestic shorthair,,24/06/2014 00:00,calico,,Transfer,Intact Female,Female
+815,5 days,domestic shorthair,blue,03/09/2014 00:00,tabby,,Transfer,Unknown,Female
+816,2 months,domestic shorthair,brown,29/06/2014 00:00,tabby,,Return to Owner,Spayed Female,Female
+817,7 years,domestic shorthair,blue /white,01/04/2007 00:00,tabby,Kitty,Return to Owner,Neutered Male,Male
+818,3 weeks,domestic shorthair,brown /white,08/05/2014 00:00,tabby,,Transfer,Intact Male,Male
+819,8 months,domestic shorthair,brown /white,19/05/2013 00:00,tabby,,Transfer,Intact Female,Female
+820,2 months,domestic shorthair,orange /white,10/09/2013 00:00,tabby,,Adoption,Neutered Male,Male
+821,2 years,siamese,flame,31/07/2012 00:00,point,Walter,Adoption,Neutered Male,Male
+822,4 months,domestic mediumhair,brown /white,09/10/2013 00:00,tabby,,Adoption,Spayed Female,Female
+823,1 year,domestic shorthair,blue/white,08/07/2013 00:00,,X,Transfer,Spayed Female,Female
+824,3 weeks,domestic shorthair,black/white,11/04/2014 00:00,,,Transfer,Intact Female,Female
+825,4 months,siamese,lilac,16/11/2013 00:00,point,Pascal,Transfer,Intact Male,Male
+826,17 years,domestic shorthair,orange /white,12/10/1997 00:00,tabby,Mason,Return to Owner,Neutered Male,Male
+827,2 months,domestic shorthair,orange,18/08/2014 00:00,tabby,*Major,Transfer,Neutered Male,Male
+828,1 year,domestic shorthair,brown,08/11/2012 00:00,tabby,Gidget,Transfer,Spayed Female,Female
+829,3 weeks,domestic shorthair,,14/10/2014 00:00,torbie,,Transfer,Intact Female,Female
+830,1 month,domestic shorthair,brown,28/08/2014 00:00,tabby,Nene,Adoption,Spayed Female,Female
+831,4 years,domestic longhair,gray,17/01/2010 00:00,,Riggs,Return to Owner,Neutered Male,Male
+832,2 years,domestic shorthair,brown,02/02/2012 00:00,tabby,,Transfer,Intact Female,Female
+833,9 months,domestic shorthair,brown /white,20/09/2013 00:00,tabby,,Transfer,Unknown,Female
+834,2 months,domestic shorthair,silver,27/07/2013 00:00,tabby,*Katy,Transfer,Intact Female,Female
+835,3 months,domestic shorthair,flame,20/04/2014 00:00,point,*Jasmine,Transfer,Intact Female,Female
+836,2 months,domestic shorthair,blue/white,21/03/2014 00:00,,Stitch,Adoption,Neutered Male,Male
+837,4 months,domestic shorthair,brown /white,10/09/2013 00:00,tabby,Yoda,Return to Owner,Neutered Male,Male
+838,9 years,domestic shorthair,brown /white,29/04/2005 00:00,tabby,Wednesday,Return to Owner,Spayed Female,Female
+839,2 months,domestic shorthair,brown /white,28/05/2014 00:00,tabby,,Adoption,Neutered Male,Male
+840,1 year,domestic mediumhair/siamese,lynx,27/03/2013 00:00,point,,Transfer,Intact Male,Male
+841,2 months,domestic shorthair,blue,23/09/2014 00:00,,*Yoakum,Adoption,Neutered Male,Male
+842,4 days,domestic shorthair,cream,25/07/2014 00:00,tabby,,Transfer,Intact Male,Male
+843,3 months,domestic shorthair,blue,26/06/2013 00:00,tabby,*Duffy,Adoption,Neutered Male,Male
+844,6 years,domestic shorthair,brown /white,30/12/2007 00:00,tabby,Louie,Adoption,Neutered Male,Male
+845,1 year,domestic shorthair,,22/07/2013 00:00,tortie,,Transfer,Intact Female,Female
+846,1 year,domestic shorthair,black/white,28/06/2012 00:00,,Pepper,Return to Owner,Spayed Female,Female
+847,10 years,domestic shorthair,brown /white,22/12/2004 00:00,tabby,,Died,Neutered Male,Male
+848,2 months,domestic shorthair,black/white,31/03/2014 00:00,,*Grace,Transfer,Spayed Female,Female
+849,4 days,domestic shorthair,brown,19/04/2014 00:00,tabby,,Transfer,Intact Male,Male
+850,2 months,domestic shorthair,white/black,02/09/2014 00:00,,,Adoption,Spayed Female,Female
+851,1 year,domestic shorthair,orange,16/11/2013 00:00,tabby,,Return to Owner,Intact Male,Male
+852,3 months,domestic shorthair,,25/07/2013 00:00,tortie,Winnie,Adoption,Spayed Female,Female
+853,2 months,domestic shorthair,,09/09/2014 00:00,calico,*Posey,Adoption,Spayed Female,Female
+854,3 months,domestic shorthair,brown,15/06/2013 00:00,tabby,*Ria,Adoption,Spayed Female,Female
+855,1 month,domestic shorthair,orange /white,14/06/2014 00:00,tabby,,Transfer,Intact Male,Male
+856,2 years,domestic shorthair,orange,30/08/2011 00:00,tabby,*Navaho,Adoption,Spayed Female,Female
+857,1 month,domestic shorthair,brown,25/09/2014 00:00,tabby,*Taco,Transfer,Intact Male,Male
+858,2 years,domestic shorthair,black/white,21/12/2011 00:00,,Rio,Transfer,Spayed Female,Female
+859,2 months,domestic shorthair,brown,05/04/2014 00:00,tabby,*Jack,Adoption,Neutered Male,Male
+860,2 months,domestic shorthair,brown,13/09/2013 00:00,tabby,*Millard,Adoption,Neutered Male,Male
+861,1 year,domestic shorthair,brown,29/05/2013 00:00,tabby,,Transfer,Unknown,Female
+862,2 months,domestic shorthair,orange /white,03/06/2014 00:00,tabby,*Bandit,Adoption,Neutered Male,Male
+863,2 months,domestic shorthair,,22/06/2014 00:00,torbie,*Nickel,Adoption,Spayed Female,Female
+864,4 weeks,domestic shorthair,brown,26/08/2014 00:00,tabby,,Transfer,Unknown,Female
+865,10 months,domestic shorthair,orange,26/02/2013 00:00,tabby,,Transfer,Neutered Male,Male
+866,1 year,domestic shorthair,orange /white,10/10/2012 00:00,tabby,,Transfer,Intact Female,Female
+867,2 months,domestic shorthair,/white,26/08/2013 00:00,tortie,*Adelaide,Adoption,Spayed Female,Female
+868,3 weeks,domestic shorthair,black,19/05/2014 00:00,,,Transfer,Intact Male,Male
+869,1 month,domestic shorthair,black,20/05/2014 00:00,,Bandit,Transfer,Intact Female,Female
+870,2 months,domestic shorthair,brown /white,27/04/2014 00:00,tabby,Rocky,Adoption,Neutered Male,Male
+871,3 years,domestic shorthair,orange,12/06/2011 00:00,tabby,*Milburn,Transfer,Neutered Male,Male
+872,2 months,domestic shorthair,,23/03/2014 00:00,calico,Rosie,Adoption,Spayed Female,Female
+873,2 months,domestic shorthair,brown,16/04/2014 00:00,tabby,,Adoption,Spayed Female,Female
+874,10 months,domestic shorthair,orange,22/04/2013 00:00,tabby,,Transfer,Intact Male,Male
+875,2 months,domestic shorthair,black,04/08/2014 00:00,,Rika,Adoption,Spayed Female,Female
+876,4 months,domestic shorthair,/blue,26/12/2013 00:00,calico,*Jenny,Transfer,Spayed Female,Female
+877,5 months,domestic mediumhair,brown,28/02/2014 00:00,tabby,,Transfer,Intact Female,Female
+878,5 months,manx,black/white,10/05/2014 00:00,,,Transfer,Intact Female,Female
+879,1 year,domestic shorthair,blue,09/07/2013 00:00,tabby,,Transfer,Spayed Female,Female
+880,2 months,domestic shorthair,,05/04/2014 00:00,calico,,Adoption,Spayed Female,Female
+881,3 months,domestic shorthair,brown /white,30/08/2014 00:00,tabby,*Teddy,Adoption,Neutered Male,Male
+882,2 months,domestic shorthair,blue,13/09/2013 00:00,,*Moe,Adoption,Neutered Male,Male
+883,1 year,domestic mediumhair,black/white,08/06/2013 00:00,,,Transfer,Spayed Female,Female
+884,5 months,domestic shorthair,cream,27/03/2014 00:00,tabby,Charlie,Adoption,Neutered Male,Male
+885,3 months,domestic shorthair,black/white,28/07/2013 00:00,,*Buster,Adoption,Neutered Male,Male
+886,4 weeks,domestic shorthair,black/white,21/07/2014 00:00,,,Transfer,Intact Male,Male
+887,5 months,domestic shorthair,blue,06/04/2014 00:00,,,Adoption,Neutered Male,Male
+888,1 year,domestic mediumhair,black/white,27/07/2012 00:00,,Alexandra,Transfer,Spayed Female,Female
+889,1 year,domestic longhair,black,07/06/2013 00:00,,,Transfer,Intact Female,Female
+890,2 years,domestic shorthair,white,11/12/2011 00:00,,Jethro,Adoption,Neutered Male,Male
+891,2 weeks,domestic shorthair,brown,24/07/2014 00:00,tabby,,Transfer,Intact Female,Female
+892,4 years,domestic shorthair,black/white,09/05/2009 00:00,,Bert,Adoption,Neutered Male,Male
+893,8 years,domestic shorthair,black/white,25/03/2005 00:00,,Abel,Adoption,Neutered Male,Male
+894,1 year,domestic shorthair,black,19/11/2012 00:00,,,Transfer,Intact Female,Female
+895,3 months,domestic shorthair,brown,13/08/2013 00:00,tabby,*Caramel,Adoption,Spayed Female,Female
+896,6 years,russian blue,blue,01/09/2007 00:00,,Yuri,Adoption,Neutered Male,Male
+897,2 months,domestic shorthair,blue,22/10/2014 00:00,,,Adoption,Spayed Female,Female
+898,2 years,domestic shorthair,black,31/07/2012 00:00,,,Transfer,Intact Female,Female
+899,2 weeks,domestic shorthair,black/white,09/10/2014 00:00,,,Transfer,Intact Male,Male
+900,2 months,domestic shorthair,brown /white,28/04/2014 00:00,tabby,*Jonathan,Adoption,Neutered Male,Male
+901,2 years,domestic shorthair,black/white,28/04/2012 00:00,,Rupaul,Transfer,Neutered Male,Male
+902,10 years,domestic shorthair,cream /white,11/06/2004 00:00,tabby,,Euthanasia,Intact Female,Female
+903,2 months,domestic shorthair,brown,14/07/2014 00:00,tabby,,Euthanasia,Unknown,Female
+904,3 months,domestic shorthair,,26/12/2013 00:00,torbie,,Transfer,Intact Female,Female
+905,3 months,domestic shorthair,black,16/07/2013 00:00,tabby,,Transfer,Neutered Male,Male
+906,1 year,domestic shorthair,black,20/06/2013 00:00,,,Transfer,Intact Female,Female
+907,1 month,domestic shorthair,brown,27/09/2013 00:00,tabby,,Euthanasia,Intact Male,Male
+908,2 months,domestic shorthair,brown /white,22/07/2014 00:00,tabby,Hashbrown,Adoption,Neutered Male,Male
+909,0 years,domestic shorthair,black,13/05/2014 00:00,,,Transfer,Unknown,Female
+910,11 months,domestic shorthair,blue/white,03/09/2013 00:00,,Kitty Lou,Adoption,Spayed Female,Female
+911,1 year,domestic shorthair,brown /white,04/04/2013 00:00,tabby,*Girly,Transfer,Spayed Female,Female
+912,2 weeks,domestic shorthair,gray,20/08/2014 00:00,tabby,,Transfer,Neutered Male,Male
+913,7 years,domestic shorthair,black/white,11/12/2006 00:00,,No Name,Adoption,Neutered Male,Male
+914,2 years,domestic shorthair,/white,15/11/2011 00:00,torbie,Sammie,Return to Owner,Spayed Female,Female
+915,3 months,domestic shorthair,,03/08/2013 00:00,tortie,Trixie,Transfer,Intact Female,Female
+916,2 months,domestic shorthair,brown /white,17/04/2014 00:00,tabby,*Hamilton,Adoption,Neutered Male,Male
+917,1 week,domestic shorthair,orange,29/07/2014 00:00,tabby,,Transfer,Intact Male,Male
+918,3 weeks,domestic shorthair,black,02/08/2014 00:00,,,Transfer,Intact Female,Female
+919,2 months,domestic shorthair,blue /white,17/04/2014 00:00,tabby,*Skittles,Adoption,Neutered Male,Male
+920,2 years,domestic shorthair,brown /white,04/10/2011 00:00,tabby,*Magic,Adoption,Spayed Female,Female
+921,2 months,domestic mediumhair,brown,02/08/2014 00:00,tabby,*Maple,Adoption,Spayed Female,Female
+922,1 month,domestic shorthair,brown,07/06/2014 00:00,tabby,,Transfer,Intact Female,Female
+923,2 months,domestic shorthair,brown,09/09/2014 00:00,tabby,Mason,Adoption,Neutered Male,Male
+924,10 months,maine coon,brown,09/02/2013 00:00,tabby,Bruce,Adoption,Neutered Male,Male
+925,3 months,domestic shorthair,black,27/08/2013 00:00,,*Molly,Adoption,Spayed Female,Female
+926,2 months,domestic shorthair,orange /white,20/09/2013 00:00,tabby,Toby,Adoption,Intact Male,Male
+927,1 day,domestic shorthair,white,28/03/2014 00:00,,,Transfer,Intact Male,Male
+928,5 months,domestic shorthair,black,15/07/2013 00:00,,*Jayna,Transfer,Spayed Female,Female
+929,5 months,domestic shorthair,cream,09/05/2013 00:00,tabby,*Freddie,Transfer,Neutered Male,Male
+930,13 years,domestic shorthair,blue,18/08/2001 00:00,tabby,Angel,Adoption,Spayed Female,Female
+931,8 years,domestic shorthair,orange,07/08/2006 00:00,tabby,,Euthanasia,Unknown,Female
+932,4 years,domestic shorthair,white/red,31/01/2010 00:00,,,Euthanasia,Intact Male,Male
+933,3 years,domestic shorthair,white,28/05/2011 00:00,,Finley,Return to Owner,Neutered Male,Male
+934,6 years,domestic shorthair,brown /white,19/11/2007 00:00,tabby,Moonie,Return to Owner,Neutered Male,Male
+935,4 years,domestic shorthair,brown,22/12/2009 00:00,tabby,Elsie,Return to Owner,Spayed Female,Female
+936,4 months,domestic longhair,brown,02/07/2013 00:00,tabby,*Fiona,Adoption,Spayed Female,Female
+937,3 months,domestic longhair,black,12/08/2014 00:00,,*Isaac,Adoption,Neutered Male,Male
+938,8 months,domestic shorthair,brown /white,11/04/2014 00:00,tabby,,Transfer,Intact Male,Male
+939,2 years,domestic shorthair,brown,02/03/2012 00:00,tabby,,Transfer,Neutered Male,Male
+940,7 years,domestic shorthair,black/white,21/11/2007 00:00,,Chiky,Transfer,Spayed Female,Female
+941,4 months,domestic shorthair,brown,12/12/2013 00:00,tabby,,Adoption,Neutered Male,Male
+942,5 months,domestic shorthair,brown,17/09/2013 00:00,tabby,,Transfer,Unknown,Female
+943,1 year,domestic shorthair,,20/12/2013 00:00,calico,,Transfer,Intact Female,Female
+944,2 months,domestic shorthair,blue,22/05/2014 00:00,tabby,,Adoption,Spayed Female,Female
+945,2 weeks,domestic shorthair,white/black,18/08/2014 00:00,,,Transfer,Intact Male,Male
+946,2 months,domestic shorthair,brown,25/07/2014 00:00,tabby,*Peony,Adoption,Spayed Female,Female
+947,1 year,domestic shorthair,/white,26/11/2012 00:00,tortie,*Minne,Transfer,Spayed Female,Female
+948,3 months,domestic mediumhair,brown,30/05/2014 00:00,tabby,,Transfer,Intact Female,Female
+949,6 years,domestic shorthair,blue,16/04/2008 00:00,,Bobby Lee,Transfer,Neutered Male,Male
+950,2 months,domestic shorthair,black,07/08/2014 00:00,tabby,*Monty,Adoption,Neutered Male,Male
+951,6 months,domestic shorthair,brown,22/04/2014 00:00,tabby,*Whisper,Adoption,Spayed Female,Female
+952,2 weeks,domestic shorthair,orange,02/07/2014 00:00,tabby,,Transfer,Intact Female,Female
+953,3 weeks,domestic shorthair,blue,04/04/2014 00:00,,,Transfer,Intact Female,Female
+954,5 years,domestic shorthair,black/white,08/07/2009 00:00,,,Transfer,Spayed Female,Female
+955,2 years,domestic shorthair,,12/11/2011 00:00,tortie,,Transfer,Intact Female,Female
+956,2 months,domestic shorthair,brown,18/11/2013 00:00,tabby,*Davey,Adoption,Neutered Male,Male
+957,2 months,domestic shorthair,brown,30/08/2014 00:00,tabby,*Cindy,Adoption,Spayed Female,Female
+958,2 years,domestic shorthair,,10/10/2011 00:00,calico,,Transfer,Intact Female,Female
+959,3 weeks,domestic shorthair,black,23/03/2014 00:00,,,Transfer,Intact Male,Male
+960,1 month,domestic shorthair,,07/07/2014 00:00,tortie,,Transfer,Intact Female,Female
+961,2 months,domestic shorthair,blue,29/05/2014 00:00,,Blue,Adoption,Intact Male,Male
+962,10 years,domestic shorthair,,21/05/2004 00:00,torbie,*Bernice,Adoption,Spayed Female,Female
+963,1 year,domestic shorthair,black,04/01/2013 00:00,,,Adoption,Spayed Female,Female
+964,2 months,domestic shorthair,orange /white,14/10/2013 00:00,tabby,*Timmy,Adoption,Neutered Male,Male
+965,1 month,domestic shorthair,black/white,29/06/2014 00:00,,*Maggie,Transfer,Intact Female,Female
+966,6 months,domestic shorthair,black,20/08/2013 00:00,tabby,,Transfer,Unknown,Female
+967,4 months,domestic shorthair,brown,24/06/2013 00:00,tabby,Jake,Adoption,Neutered Male,Male
+968,2 months,domestic shorthair,brown,22/04/2014 00:00,tabby,Isla,Adoption,Spayed Female,Female
+969,3 weeks,domestic shorthair,,30/08/2014 00:00,tortie,,Transfer,Intact Female,Female
+970,1 year,domestic shorthair,cream,27/02/2013 00:00,tabby,,Transfer,Intact Male,Male
+971,4 weeks,domestic shorthair,blue,22/09/2014 00:00,tabby,*Sugar,Transfer,Intact Male,Male
+972,1 year,domestic shorthair,black/white,19/10/2012 00:00,,*Aggie,Transfer,Spayed Female,Female
+973,1 year,domestic shorthair,black,25/01/2013 00:00,,Silvy,Return to Owner,Spayed Female,Female
+974,9 months,domestic shorthair,brown /white,19/09/2013 00:00,tabby,,Transfer,Unknown,Female
+975,3 years,domestic shorthair,black/white,25/05/2011 00:00,,,Died,Intact Female,Female
+976,1 year,domestic mediumhair,black/white,08/06/2013 00:00,,,Transfer,Spayed Female,Female
+977,3 days,domestic shorthair,black,31/03/2014 00:00,tabby,,Transfer,Intact Male,Male
+978,2 months,domestic shorthair,brown /white,25/02/2014 00:00,tabby,*Max,Adoption,Neutered Male,Male
+979,2 months,domestic shorthair,black/white,23/07/2014 00:00,,Willow,Adoption,Spayed Female,Female
+980,3 months,snowshoe,lynx,13/04/2014 00:00,point,,Adoption,Neutered Male,Male
+981,3 months,domestic shorthair,black,15/04/2014 00:00,,Pavel,Adoption,Neutered Male,Male
+982,13 years,domestic mediumhair,brown /white,17/01/2001 00:00,tabby,Bobo,Died,Neutered Male,Male
+983,3 months,domestic shorthair,blue /white,02/05/2014 00:00,tabby,Chester,Adoption,Neutered Male,Male
+984,3 weeks,domestic shorthair,black,20/03/2014 00:00,,,Transfer,Intact Female,Female
+985,16 years,domestic longhair,black,30/11/1998 00:00,,Cupcake,Adoption,Spayed Female,Female
+986,1 year,domestic shorthair,black/white,17/07/2013 00:00,,,Transfer,Neutered Male,Male
+987,2 weeks,domestic shorthair,brown,17/04/2014 00:00,tabby,,Transfer,Intact Female,Female
+988,1 year,domestic shorthair,,25/05/2013 00:00,calico,,Adoption,Spayed Female,Female
+989,2 months,domestic shorthair,white/black,17/03/2014 00:00,,Kia,Adoption,Spayed Female,Female
+990,3 years,domestic shorthair,orange,08/09/2011 00:00,tabby,Prince,Adoption,Neutered Male,Male
+991,5 years,domestic longhair,/white,09/03/2009 00:00,torbie,Tiger,Adoption,Spayed Female,Female
+992,3 years,domestic shorthair,brown /white,06/08/2011 00:00,tabby,*Babs,Transfer,Intact Female,Female
+993,1 month,domestic shorthair,black/white,15/05/2014 00:00,,*Nelda,Adoption,Spayed Female,Female
+994,3 months,siamese,lilac,23/05/2014 00:00,point,,Transfer,Intact Female,Female
+995,3 weeks,domestic shorthair,cream /white,04/08/2014 00:00,tabby,,Transfer,Intact Male,Male
+996,1 year,domestic shorthair,/orange,17/03/2013 00:00,tortie,*Dahlia,Transfer,Spayed Female,Female
+997,1 year,domestic shorthair,black/white,21/01/2013 00:00,,,Transfer,Intact Male,Male
+998,1 year,domestic shorthair,orange,27/02/2013 00:00,tabby,,Transfer,Unknown,Female
+999,1 year,domestic shorthair,black /white,30/05/2013 00:00,smoke,*Tootsie,Adoption,Spayed Female,Female
+1000,2 months,domestic shorthair,black/white,23/04/2014 00:00,,*Susie,Adoption,Spayed Female,Female

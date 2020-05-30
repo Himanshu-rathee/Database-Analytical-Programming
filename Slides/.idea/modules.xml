@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../CA/.idea/CA.iml" filepath="$PROJECT_DIR$/../CA/.idea/CA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DAP_Lab4/.idea/DAP_Lab4.iml" filepath="$PROJECT_DIR$/../DAP_Lab4/.idea/DAP_Lab4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DAP_lab2/.idea/DAP_lab2.iml" filepath="$PROJECT_DIR$/../DAP_lab2/.idea/DAP_lab2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Old_CA/.idea/Old_CA.iml" filepath="$PROJECT_DIR$/../Old_CA/.idea/Old_CA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Slides.iml" filepath="$PROJECT_DIR$/.idea/Slides.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6f52119b-3856-471f-8cb4-a7ae0be907dc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="3998ea26-bfee-439d-8442-c565003a47a7" />
+  <component name="ProjectId" id="1YOb67M73TdzB484c88EHHIEGmT" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6f52119b-3856-471f-8cb4-a7ae0be907dc" name="Default Changelist" comment="" />
+      <created>1582816409980</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582816409980</updated>
+      <workItem from="1582816411517" duration="461000" />
+      <workItem from="1583151854147" duration="441000" />
+      <workItem from="1583423820370" duration="360000" />
+      <workItem from="1583679571456" duration="193000" />
+      <workItem from="1583683566808" duration="613000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1398" height="207" key="GridCell.Tab.0.bottom" timestamp="1583683587018">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1583151877575" />
+    <state width="1398" height="207" key="GridCell.Tab.0.bottom/0.23.1440.811@0.23.1440.811" timestamp="1583683587018" />
+    <state width="1398" height="207" key="GridCell.Tab.0.center" timestamp="1583683587017">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1583151877573" />
+    <state width="1398" height="207" key="GridCell.Tab.0.center/0.23.1440.811@0.23.1440.811" timestamp="1583683587017" />
+    <state width="1398" height="207" key="GridCell.Tab.0.left" timestamp="1583683587017">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1583151877572" />
+    <state width="1398" height="207" key="GridCell.Tab.0.left/0.23.1440.811@0.23.1440.811" timestamp="1583683587017" />
+    <state width="1398" height="207" key="GridCell.Tab.0.right" timestamp="1583683587018">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1583151877574" />
+    <state width="1398" height="207" key="GridCell.Tab.0.right/0.23.1440.811@0.23.1440.811" timestamp="1583683587018" />
+    <state width="1398" height="259" key="GridCell.Tab.1.bottom" timestamp="1583679764691">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state width="1398" height="259" key="GridCell.Tab.1.bottom/0.23.1440.811@0.23.1440.811" timestamp="1583679764691" />
+    <state width="1398" height="259" key="GridCell.Tab.1.center" timestamp="1583679764691">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state width="1398" height="259" key="GridCell.Tab.1.center/0.23.1440.811@0.23.1440.811" timestamp="1583679764691" />
+    <state width="1398" height="259" key="GridCell.Tab.1.left" timestamp="1583679764690">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state width="1398" height="259" key="GridCell.Tab.1.left/0.23.1440.811@0.23.1440.811" timestamp="1583679764690" />
+    <state width="1398" height="259" key="GridCell.Tab.1.right" timestamp="1583679764691">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state width="1398" height="259" key="GridCell.Tab.1.right/0.23.1440.811@0.23.1440.811" timestamp="1583679764691" />
+    <state x="215" y="153" key="SettingsEditor" timestamp="1583423959220">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="215" y="153" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1583423959220" />
+  </component>
+</project>
